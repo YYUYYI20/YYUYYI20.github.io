@@ -1,0 +1,6 @@
+SF ZxBm = 0.000 +/- 0.000
+frac ZxBm = -nan +/- -nan
+SF ZxCm = 0.000 +/- 0.000
+frac ZxCm = -nan +/- -nan
+SF ZLm = 0.000 +/- 0.000
+frac ZLm = -nan +/- -nan

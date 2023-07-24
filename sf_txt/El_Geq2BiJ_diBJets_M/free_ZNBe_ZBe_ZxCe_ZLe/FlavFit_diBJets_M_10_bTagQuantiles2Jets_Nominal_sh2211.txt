@@ -1,0 +1,8 @@
+SF ZNBe = 0.000 +/- 0.000
+frac ZNBe = -nan +/- -nan
+SF ZBe = 0.000 +/- 0.000
+frac ZBe = -nan +/- -nan
+SF ZxCe = 0.000 +/- 0.000
+frac ZxCe = -nan +/- -nan
+SF ZLe = 0.000 +/- 0.000
+frac ZLe = -nan +/- -nan
