@@ -1,4 +1,0 @@
-SF ZxCe = 0.000 +/- 0.000
-frac ZxCe = -nan +/- -nan
-SF ZxBLe = 0.000 +/- 0.000
-frac ZxBLe = -nan +/- -nan

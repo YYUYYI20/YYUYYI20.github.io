@@ -1,4 +1,0 @@
-SF ZNBe = 0.000 +/- 0.000
-frac ZNBe = -nan +/- -nan
-SF ZBxCLe = 0.000 +/- 0.000
-frac ZBxCLe = -nan +/- -nan

@@ -1,4 +1,0 @@
-SF ZBe = 1.467 +/- 0.058
-frac ZBe = 0.143 +/- 0.006
-SF ZNBxCLe = 1.031 +/- 0.010
-frac ZNBxCLe = 0.745 +/- 0.007

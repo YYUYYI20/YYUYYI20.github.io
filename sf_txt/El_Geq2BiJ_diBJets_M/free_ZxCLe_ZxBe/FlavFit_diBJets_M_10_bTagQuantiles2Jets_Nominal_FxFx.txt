@@ -1,4 +1,0 @@
-SF ZxCLe = 0.000 +/- 2.326
-frac ZxCLe = inf +/- inf
-SF ZxBe = 0.000 +/- 0.335
-frac ZxBe = inf +/- inf

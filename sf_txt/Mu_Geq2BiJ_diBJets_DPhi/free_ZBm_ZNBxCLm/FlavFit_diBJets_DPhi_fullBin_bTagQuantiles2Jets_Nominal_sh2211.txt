@@ -1,4 +1,0 @@
-SF ZBm = 0.813 +/- 0.017
-frac ZBm = 0.108 +/- 0.002
-SF ZNBxCLm = 1.069 +/- 0.004
-frac ZNBxCLm = 0.751 +/- 0.003
