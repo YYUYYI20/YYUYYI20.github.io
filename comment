@@ -1,0 +1,8 @@
+MGFxFx gives far better modelling with than 2.2.11 in VVMergHP region (2btag, VBF case are lack of statisctics)
+MGFxFx gives very similiar modelling with sherpa 2.2.11 in VVMergLP region (2btag, VBF case are lack of statisctics)
+MGFxFx gives very similiar modelling with sherpa 2.2.11 in VVRes region (slightly better for VBF case)
+VH_Merg region is extremely lack of statistics
+MGFxFx gives better modelling in VH Res region, especially for the high statistical bins of m and pT disributions, 2btag region, VBF case
+
+
+In summary: MG FxFx gives better modelling for CRs of VH, VBF, high pT VV --- good moelling for hard glue spilling to HF jets
