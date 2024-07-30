@@ -1,0 +1,2763 @@
+# BEGIN PLOT
+Legend=1
+LogY=1
+Title=1D differential xsection vs $\Sigma\tau_{C,j}$
+XLabel=$\Sigma\tau_{C,j}$ [GeV]
+YLabel=$d\sigma/d\Sigma\tau_{C,j}$ [fb/GeV]
+DrawOnly=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR20_MUF20_PDF303000_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR20_MUF10_PDF303000_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR20_MUF05_PDF303000_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF20_PDF303000_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93342_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93341_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93340_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93339_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93338_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93337_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93336_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93335_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93334_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93333_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93332_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93331_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93330_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93329_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93328_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93327_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93326_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93325_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93324_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93323_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93322_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93321_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93320_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93319_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93318_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93317_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93316_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93315_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93314_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93313_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93312_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93311_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93310_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93309_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93308_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93307_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93306_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93305_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93304_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93303_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93302_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93301_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93300_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF331700_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF331500_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF304400_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF304200_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303200_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303100_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303099_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303098_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303097_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303096_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303095_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303094_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303093_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303092_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303091_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303090_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303089_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303088_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303087_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303086_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303085_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303084_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303083_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303082_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303081_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303080_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303079_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303078_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303077_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303076_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303075_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303074_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303073_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303072_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303071_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303070_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303069_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303068_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303067_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303066_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303065_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303064_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303063_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303062_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303061_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303060_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303059_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303058_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303057_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303056_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303055_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303054_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303053_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303052_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303051_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303050_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303049_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303048_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303047_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303046_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303045_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303044_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303043_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303042_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303041_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303040_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303039_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303038_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303037_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303036_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303035_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303034_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303033_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303032_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303031_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303030_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303029_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303028_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303027_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303026_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303025_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303024_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303023_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303022_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303021_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303020_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303019_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303018_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303017_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303016_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303015_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303014_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303013_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303012_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303011_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303010_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303009_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303008_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303007_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303006_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303005_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303004_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303003_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303002_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303001_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303000_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF27400_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF27100_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF266000_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF265000_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF25200_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF14400_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF14300_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF14200_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF14100_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF14000_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF13100_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF05_PDF303000_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR05_MUF20_PDF303000_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR05_MUF10_PDF303000_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR05_MUF05_PDF303000_] //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[AUX_bare_not_for_analyses] /ATLAS_2022_I2023464/d35-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r21.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01
+LegendOnly=/ATLAS_2022_I2023464/d35-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r21.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01
+RatioPlot=1
+RatioPlotReference=/ATLAS_2022_I2023464/d35-x01-y01
+# END PLOT
+
+# BEGIN HISTO1D /ATLAS_2022_I2023464/d35-x01-y01
+ConnectBins=0
+ErrorBars=1
+IsRef=1
+Path=/ATLAS_2022_I2023464/d35-x01-y01
+PolyMarker=*
+Title=Data
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	1.054300e+00	2.543873e-01	2.543873e-01
+1.500000e+01	2.500000e+01	6.087500e-01	2.548804e-01	2.548804e-01
+2.500000e+01	4.000000e+01	1.855700e-01	1.274943e-01	1.274943e-01
+4.000000e+01	8.000000e+01	9.269800e-02	3.341944e-02	3.341944e-02
+8.000000e+01	1.300000e+04	5.076000e-05	4.952046e-05	4.952046e-05
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r21.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01
+ErrorBars=1
+LineColor=red
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r21.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01
+ScaledBy=1.00099832365511572e-02
+Title=r21
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	5.724138e-01	2.151790e-02	2.151790e-02
+1.500000e+01	2.500000e+01	5.920690e-01	2.148196e-02	2.148196e-02
+2.500000e+01	4.000000e+01	2.682759e-01	1.163364e-02	1.163364e-02
+4.000000e+01	8.000000e+01	8.344828e-02	4.200320e-03	4.200320e-03
+8.000000e+01	1.300000e+04	1.243728e-04	8.656601e-06	8.656601e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR20_MUF20_PDF303000_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR20_MUF20_PDF303000_]
+ScaledBy=3.04178165044597911e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	1.894620e-01	7.089738e-03	7.089738e-03
+1.500000e+01	2.500000e+01	1.917675e-01	7.102451e-03	7.102451e-03
+2.500000e+01	4.000000e+01	8.650107e-02	3.706376e-03	3.706376e-03
+4.000000e+01	8.000000e+01	3.027715e-02	1.371156e-03	1.371156e-03
+8.000000e+01	1.300000e+04	5.325594e-05	3.251123e-06	3.251123e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR20_MUF10_PDF303000_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR20_MUF10_PDF303000_]
+ScaledBy=3.04178355783735112e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	1.850777e-01	6.908873e-03	6.908873e-03
+1.500000e+01	2.500000e+01	1.882289e-01	6.841083e-03	6.841083e-03
+2.500000e+01	4.000000e+01	8.636527e-02	3.719947e-03	3.719947e-03
+4.000000e+01	8.000000e+01	3.033188e-02	1.398629e-03	1.398629e-03
+8.000000e+01	1.300000e+04	5.571396e-05	3.438278e-06	3.438278e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR20_MUF05_PDF303000_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR20_MUF05_PDF303000_]
+ScaledBy=3.04178651780773147e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	1.795003e-01	6.971694e-03	6.971694e-03
+1.500000e+01	2.500000e+01	1.831047e-01	6.891510e-03	6.891510e-03
+2.500000e+01	4.000000e+01	8.561407e-02	3.858707e-03	3.858707e-03
+4.000000e+01	8.000000e+01	3.036980e-02	1.479291e-03	1.479291e-03
+8.000000e+01	1.300000e+04	5.866652e-05	3.871189e-06	3.871189e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF20_PDF303000_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF20_PDF303000_]
+ScaledBy=3.04178766634124282e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.445214e-01	1.043950e-02	1.043950e-02
+1.500000e+01	2.500000e+01	2.470236e-01	1.044633e-02	1.044633e-02
+2.500000e+01	4.000000e+01	1.156660e-01	5.508068e-03	5.508068e-03
+4.000000e+01	8.000000e+01	4.082050e-02	2.027643e-03	2.027643e-03
+8.000000e+01	1.300000e+04	7.182765e-05	4.774942e-06	4.774942e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93342_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93342_]
+ScaledBy=3.04178973708097529e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.424323e-01	1.076451e-02	1.076451e-02
+1.500000e+01	2.500000e+01	2.440960e-01	1.025050e-02	1.025050e-02
+2.500000e+01	4.000000e+01	1.161435e-01	5.603135e-03	5.603135e-03
+4.000000e+01	8.000000e+01	4.119072e-02	2.104495e-03	2.104495e-03
+8.000000e+01	1.300000e+04	7.707731e-05	5.203913e-06	5.203913e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93341_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93341_]
+ScaledBy=3.04178802214515737e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.293610e-01	9.918613e-03	9.918613e-03
+1.500000e+01	2.500000e+01	2.317581e-01	9.609203e-03	9.609203e-03
+2.500000e+01	4.000000e+01	1.099802e-01	5.243178e-03	5.243178e-03
+4.000000e+01	8.000000e+01	3.887375e-02	1.969390e-03	1.969390e-03
+8.000000e+01	1.300000e+04	7.238766e-05	4.855163e-06	4.855163e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93340_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93340_]
+ScaledBy=3.04178877586437938e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.351662e-01	1.027519e-02	1.027519e-02
+1.500000e+01	2.500000e+01	2.370767e-01	9.893316e-03	9.893316e-03
+2.500000e+01	4.000000e+01	1.124382e-01	5.389846e-03	5.389846e-03
+4.000000e+01	8.000000e+01	3.953422e-02	2.009932e-03	2.009932e-03
+8.000000e+01	1.300000e+04	7.211753e-05	4.846547e-06	4.846547e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93339_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93339_]
+ScaledBy=3.04178880000387621e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.352013e-01	1.033558e-02	1.033558e-02
+1.500000e+01	2.500000e+01	2.368980e-01	9.892240e-03	9.892240e-03
+2.500000e+01	4.000000e+01	1.123503e-01	5.394489e-03	5.394489e-03
+4.000000e+01	8.000000e+01	3.955818e-02	2.011764e-03	2.011764e-03
+8.000000e+01	1.300000e+04	7.230719e-05	4.859124e-06	4.859124e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93338_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93338_]
+ScaledBy=3.04178875136793762e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.350774e-01	1.026326e-02	1.026326e-02
+1.500000e+01	2.500000e+01	2.370535e-01	9.894053e-03	9.894053e-03
+2.500000e+01	4.000000e+01	1.123718e-01	5.393276e-03	5.393276e-03
+4.000000e+01	8.000000e+01	3.955338e-02	2.010163e-03	2.010163e-03
+8.000000e+01	1.300000e+04	7.213983e-05	4.848095e-06	4.848095e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93337_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93337_]
+ScaledBy=3.04178875832917302e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.350828e-01	1.026916e-02	1.026916e-02
+1.500000e+01	2.500000e+01	2.369814e-01	9.890749e-03	9.890749e-03
+2.500000e+01	4.000000e+01	1.123764e-01	5.389949e-03	5.389949e-03
+4.000000e+01	8.000000e+01	3.954005e-02	2.009771e-03	2.009771e-03
+8.000000e+01	1.300000e+04	7.212330e-05	4.847444e-06	4.847444e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93336_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93336_]
+ScaledBy=3.04178887563701051e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.352799e-01	1.022213e-02	1.022213e-02
+1.500000e+01	2.500000e+01	2.376704e-01	9.925198e-03	9.925198e-03
+2.500000e+01	4.000000e+01	1.127674e-01	5.408573e-03	5.408573e-03
+4.000000e+01	8.000000e+01	3.968545e-02	2.018421e-03	2.018421e-03
+8.000000e+01	1.300000e+04	7.245568e-05	4.871333e-06	4.871333e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93335_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93335_]
+ScaledBy=3.04178879427411579e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.352552e-01	1.030443e-02	1.030443e-02
+1.500000e+01	2.500000e+01	2.370407e-01	9.893452e-03	9.893452e-03
+2.500000e+01	4.000000e+01	1.124046e-01	5.391672e-03	5.391672e-03
+4.000000e+01	8.000000e+01	3.954795e-02	2.010565e-03	2.010565e-03
+8.000000e+01	1.300000e+04	7.216222e-05	4.850659e-06	4.850659e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93334_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93334_]
+ScaledBy=3.04178869184792066e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.358666e-01	1.040181e-02	1.040181e-02
+1.500000e+01	2.500000e+01	2.373336e-01	9.913457e-03	9.913457e-03
+2.500000e+01	4.000000e+01	1.125672e-01	5.405298e-03	5.405298e-03
+4.000000e+01	8.000000e+01	3.962682e-02	2.015026e-03	2.015026e-03
+8.000000e+01	1.300000e+04	7.237471e-05	4.867630e-06	4.867630e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93333_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93333_]
+ScaledBy=3.04178871363157237e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.345783e-01	1.021744e-02	1.021744e-02
+1.500000e+01	2.500000e+01	2.367634e-01	9.881604e-03	9.881604e-03
+2.500000e+01	4.000000e+01	1.122374e-01	5.385405e-03	5.385405e-03
+4.000000e+01	8.000000e+01	3.949203e-02	2.007327e-03	2.007327e-03
+8.000000e+01	1.300000e+04	7.207003e-05	4.841354e-06	4.841354e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93332_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93332_]
+ScaledBy=3.04178875884747110e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.351098e-01	1.026649e-02	1.026649e-02
+1.500000e+01	2.500000e+01	2.370046e-01	9.893694e-03	9.893694e-03
+2.500000e+01	4.000000e+01	1.123380e-01	5.394297e-03	5.394297e-03
+4.000000e+01	8.000000e+01	3.954727e-02	2.010275e-03	2.010275e-03
+8.000000e+01	1.300000e+04	7.216899e-05	4.849537e-06	4.849537e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93331_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93331_]
+ScaledBy=3.04178884750251578e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.345132e-01	1.020389e-02	1.020389e-02
+1.500000e+01	2.500000e+01	2.366613e-01	9.873131e-03	9.873131e-03
+2.500000e+01	4.000000e+01	1.121842e-01	5.378056e-03	5.378056e-03
+4.000000e+01	8.000000e+01	3.945327e-02	2.005274e-03	2.005274e-03
+8.000000e+01	1.300000e+04	7.191899e-05	4.832152e-06	4.832152e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93330_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93330_]
+ScaledBy=3.04178862960868346e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.359765e-01	1.027543e-02	1.027543e-02
+1.500000e+01	2.500000e+01	2.381850e-01	9.932415e-03	9.932415e-03
+2.500000e+01	4.000000e+01	1.128180e-01	5.411368e-03	5.411368e-03
+4.000000e+01	8.000000e+01	3.966708e-02	2.014436e-03	2.014436e-03
+8.000000e+01	1.300000e+04	7.224850e-05	4.847636e-06	4.847636e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93329_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93329_]
+ScaledBy=3.04178868416146633e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.353061e-01	1.030838e-02	1.030838e-02
+1.500000e+01	2.500000e+01	2.369998e-01	9.892029e-03	9.892029e-03
+2.500000e+01	4.000000e+01	1.123267e-01	5.391639e-03	5.391639e-03
+4.000000e+01	8.000000e+01	3.953648e-02	2.009274e-03	2.009274e-03
+8.000000e+01	1.300000e+04	7.205499e-05	4.844994e-06	4.844994e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93328_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93328_]
+ScaledBy=3.04178869295720954e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.349468e-01	1.024537e-02	1.024537e-02
+1.500000e+01	2.500000e+01	2.368686e-01	9.882109e-03	9.882109e-03
+2.500000e+01	4.000000e+01	1.121906e-01	5.385880e-03	5.385880e-03
+4.000000e+01	8.000000e+01	3.949428e-02	2.006723e-03	2.006723e-03
+8.000000e+01	1.300000e+04	7.191999e-05	4.835384e-06	4.835384e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93327_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93327_]
+ScaledBy=3.04178876424116224e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.350369e-01	1.025931e-02	1.025931e-02
+1.500000e+01	2.500000e+01	2.369122e-01	9.894199e-03	9.894199e-03
+2.500000e+01	4.000000e+01	1.123108e-01	5.392611e-03	5.392611e-03
+4.000000e+01	8.000000e+01	3.953997e-02	2.009670e-03	2.009670e-03
+8.000000e+01	1.300000e+04	7.212002e-05	4.847589e-06	4.847589e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93326_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93326_]
+ScaledBy=3.04178842357411558e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.349908e-01	1.024162e-02	1.024162e-02
+1.500000e+01	2.500000e+01	2.370192e-01	9.892874e-03	9.892874e-03
+2.500000e+01	4.000000e+01	1.123915e-01	5.392172e-03	5.392172e-03
+4.000000e+01	8.000000e+01	3.954200e-02	2.009515e-03	2.009515e-03
+8.000000e+01	1.300000e+04	7.211583e-05	4.846287e-06	4.846287e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93325_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93325_]
+ScaledBy=3.04178886797579163e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.355579e-01	1.033119e-02	1.033119e-02
+1.500000e+01	2.500000e+01	2.372526e-01	9.914140e-03	9.914140e-03
+2.500000e+01	4.000000e+01	1.124582e-01	5.405672e-03	5.405672e-03
+4.000000e+01	8.000000e+01	3.961955e-02	2.014537e-03	2.014537e-03
+8.000000e+01	1.300000e+04	7.233597e-05	4.864646e-06	4.864646e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93324_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93324_]
+ScaledBy=3.04178878498278377e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.348499e-01	1.027487e-02	1.027487e-02
+1.500000e+01	2.500000e+01	2.370428e-01	9.895695e-03	9.895695e-03
+2.500000e+01	4.000000e+01	1.124865e-01	5.392577e-03	5.392577e-03
+4.000000e+01	8.000000e+01	3.955708e-02	2.010764e-03	2.010764e-03
+8.000000e+01	1.300000e+04	7.217622e-05	4.852512e-06	4.852512e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93323_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93323_]
+ScaledBy=3.04178875126240224e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.351783e-01	1.028641e-02	1.028641e-02
+1.500000e+01	2.500000e+01	2.369338e-01	9.892563e-03	9.892563e-03
+2.500000e+01	4.000000e+01	1.123328e-01	5.393204e-03	5.393204e-03
+4.000000e+01	8.000000e+01	3.952350e-02	2.009642e-03	2.009642e-03
+8.000000e+01	1.300000e+04	7.213285e-05	4.848029e-06	4.848029e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93322_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93322_]
+ScaledBy=3.04178887630467826e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.346449e-01	1.024780e-02	1.024780e-02
+1.500000e+01	2.500000e+01	2.366719e-01	9.887886e-03	9.887886e-03
+2.500000e+01	4.000000e+01	1.122224e-01	5.391617e-03	5.391617e-03
+4.000000e+01	8.000000e+01	3.951615e-02	2.010068e-03	2.010068e-03
+8.000000e+01	1.300000e+04	7.230211e-05	4.860580e-06	4.860580e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93321_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93321_]
+ScaledBy=3.04178876123117198e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.349787e-01	1.024676e-02	1.024676e-02
+1.500000e+01	2.500000e+01	2.369982e-01	9.893488e-03	9.893488e-03
+2.500000e+01	4.000000e+01	1.123027e-01	5.391410e-03	5.391410e-03
+4.000000e+01	8.000000e+01	3.952678e-02	2.009571e-03	2.009571e-03
+8.000000e+01	1.300000e+04	7.211930e-05	4.846688e-06	4.846688e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93320_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93320_]
+ScaledBy=3.04178866038680830e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.356412e-01	1.031410e-02	1.031410e-02
+1.500000e+01	2.500000e+01	2.375267e-01	9.913554e-03	9.913554e-03
+2.500000e+01	4.000000e+01	1.125921e-01	5.403422e-03	5.403422e-03
+4.000000e+01	8.000000e+01	3.962510e-02	2.014071e-03	2.014071e-03
+8.000000e+01	1.300000e+04	7.230154e-05	4.858773e-06	4.858773e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93319_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93319_]
+ScaledBy=3.04178886578629478e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.348004e-01	1.026975e-02	1.026975e-02
+1.500000e+01	2.500000e+01	2.368610e-01	9.887676e-03	9.887676e-03
+2.500000e+01	4.000000e+01	1.122697e-01	5.390392e-03	5.390392e-03
+4.000000e+01	8.000000e+01	3.949833e-02	2.009442e-03	2.009442e-03
+8.000000e+01	1.300000e+04	7.216838e-05	4.851034e-06	4.851034e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93318_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93318_]
+ScaledBy=3.04178857785187282e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.348219e-01	1.021182e-02	1.021182e-02
+1.500000e+01	2.500000e+01	2.370432e-01	9.886080e-03	9.886080e-03
+2.500000e+01	4.000000e+01	1.123297e-01	5.386029e-03	5.386029e-03
+4.000000e+01	8.000000e+01	3.948322e-02	2.005809e-03	2.005809e-03
+8.000000e+01	1.300000e+04	7.192849e-05	4.828614e-06	4.828614e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93317_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93317_]
+ScaledBy=3.04178866193052701e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.348258e-01	1.023746e-02	1.023746e-02
+1.500000e+01	2.500000e+01	2.370675e-01	9.890615e-03	9.890615e-03
+2.500000e+01	4.000000e+01	1.123735e-01	5.390952e-03	5.390952e-03
+4.000000e+01	8.000000e+01	3.951818e-02	2.008378e-03	2.008378e-03
+8.000000e+01	1.300000e+04	7.208544e-05	4.840484e-06	4.840484e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93316_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93316_]
+ScaledBy=3.04178889703754377e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.348874e-01	1.027492e-02	1.027492e-02
+1.500000e+01	2.500000e+01	2.369974e-01	9.890666e-03	9.890666e-03
+2.500000e+01	4.000000e+01	1.124549e-01	5.392123e-03	5.392123e-03
+4.000000e+01	8.000000e+01	3.955648e-02	2.010962e-03	2.010962e-03
+8.000000e+01	1.300000e+04	7.234190e-05	4.856581e-06	4.856581e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93315_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93315_]
+ScaledBy=3.04178877568336272e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.346221e-01	1.023255e-02	1.023255e-02
+1.500000e+01	2.500000e+01	2.366551e-01	9.861244e-03	9.861244e-03
+2.500000e+01	4.000000e+01	1.120415e-01	5.369945e-03	5.369945e-03
+4.000000e+01	8.000000e+01	3.935328e-02	1.998785e-03	1.998785e-03
+8.000000e+01	1.300000e+04	7.165634e-05	4.810940e-06	4.810940e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93314_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93314_]
+ScaledBy=3.04178870353943604e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.349211e-01	1.021628e-02	1.021628e-02
+1.500000e+01	2.500000e+01	2.370964e-01	9.887608e-03	9.887608e-03
+2.500000e+01	4.000000e+01	1.122267e-01	5.389254e-03	5.389254e-03
+4.000000e+01	8.000000e+01	3.950305e-02	2.007112e-03	2.007112e-03
+8.000000e+01	1.300000e+04	7.198526e-05	4.835043e-06	4.835043e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93313_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93313_]
+ScaledBy=3.04178879848433954e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.341295e-01	1.018793e-02	1.018793e-02
+1.500000e+01	2.500000e+01	2.364096e-01	9.862795e-03	9.862795e-03
+2.500000e+01	4.000000e+01	1.120947e-01	5.374294e-03	5.374294e-03
+4.000000e+01	8.000000e+01	3.939855e-02	2.002525e-03	2.002525e-03
+8.000000e+01	1.300000e+04	7.188894e-05	4.826575e-06	4.826575e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93312_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93312_]
+ScaledBy=3.04178878394153031e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.362027e-01	1.040881e-02	1.040881e-02
+1.500000e+01	2.500000e+01	2.375333e-01	9.917100e-03	9.917100e-03
+2.500000e+01	4.000000e+01	1.126831e-01	5.406378e-03	5.406378e-03
+4.000000e+01	8.000000e+01	3.965620e-02	2.015567e-03	2.015567e-03
+8.000000e+01	1.300000e+04	7.233965e-05	4.867373e-06	4.867373e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93311_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93311_]
+ScaledBy=3.04178883332010923e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.351650e-01	1.029015e-02	1.029015e-02
+1.500000e+01	2.500000e+01	2.370195e-01	9.892131e-03	9.892131e-03
+2.500000e+01	4.000000e+01	1.123283e-01	5.391126e-03	5.391126e-03
+4.000000e+01	8.000000e+01	3.952355e-02	2.009020e-03	2.009020e-03
+8.000000e+01	1.300000e+04	7.212590e-05	4.846847e-06	4.846847e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93310_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93310_]
+ScaledBy=3.04178887062243018e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.332135e-01	1.022284e-02	1.022284e-02
+1.500000e+01	2.500000e+01	2.349625e-01	9.809296e-03	9.809296e-03
+2.500000e+01	4.000000e+01	1.114379e-01	5.345662e-03	5.345662e-03
+4.000000e+01	8.000000e+01	3.921285e-02	1.993312e-03	1.993312e-03
+8.000000e+01	1.300000e+04	7.161721e-05	4.817799e-06	4.817799e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93309_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93309_]
+ScaledBy=3.04178864244993713e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.357146e-01	1.031547e-02	1.031547e-02
+1.500000e+01	2.500000e+01	2.375980e-01	9.916116e-03	9.916116e-03
+2.500000e+01	4.000000e+01	1.123590e-01	5.416836e-03	5.416836e-03
+4.000000e+01	8.000000e+01	3.960835e-02	2.013328e-03	2.013328e-03
+8.000000e+01	1.300000e+04	7.230775e-05	4.855593e-06	4.855593e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93308_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93308_]
+ScaledBy=3.04178947577493641e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.324788e-01	1.031772e-02	1.031772e-02
+1.500000e+01	2.500000e+01	2.336710e-01	9.787743e-03	9.787743e-03
+2.500000e+01	4.000000e+01	1.111263e-01	5.347245e-03	5.347245e-03
+4.000000e+01	8.000000e+01	3.919997e-02	1.999126e-03	1.999126e-03
+8.000000e+01	1.300000e+04	7.201712e-05	4.855260e-06	4.855260e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93307_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93307_]
+ScaledBy=3.04178869980194135e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.344362e-01	1.014511e-02	1.014511e-02
+1.500000e+01	2.500000e+01	2.368626e-01	9.878641e-03	9.878641e-03
+2.500000e+01	4.000000e+01	1.122226e-01	5.382489e-03	5.382489e-03
+4.000000e+01	8.000000e+01	3.945873e-02	2.004791e-03	2.004791e-03
+8.000000e+01	1.300000e+04	7.189537e-05	4.825759e-06	4.825759e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93306_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93306_]
+ScaledBy=3.04178871394909529e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.355198e-01	1.027352e-02	1.027352e-02
+1.500000e+01	2.500000e+01	2.374413e-01	9.916355e-03	9.916355e-03
+2.500000e+01	4.000000e+01	1.122897e-01	5.412119e-03	5.412119e-03
+4.000000e+01	8.000000e+01	3.959953e-02	2.012545e-03	2.012545e-03
+8.000000e+01	1.300000e+04	7.228717e-05	4.856534e-06	4.856534e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93305_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93305_]
+ScaledBy=3.04178876384744506e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.342931e-01	1.014526e-02	1.014526e-02
+1.500000e+01	2.500000e+01	2.368460e-01	9.876898e-03	9.876898e-03
+2.500000e+01	4.000000e+01	1.122309e-01	5.380300e-03	5.380300e-03
+4.000000e+01	8.000000e+01	3.945370e-02	2.004632e-03	2.004632e-03
+8.000000e+01	1.300000e+04	7.231354e-05	4.842089e-06	4.842089e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93304_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93304_]
+ScaledBy=3.04178899478484881e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.344451e-01	1.027195e-02	1.027195e-02
+1.500000e+01	2.500000e+01	2.362858e-01	9.873542e-03	9.873542e-03
+2.500000e+01	4.000000e+01	1.121079e-01	5.381783e-03	5.381783e-03
+4.000000e+01	8.000000e+01	3.944310e-02	2.008539e-03	2.008539e-03
+8.000000e+01	1.300000e+04	7.214942e-05	4.856268e-06	4.856268e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93303_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93303_]
+ScaledBy=3.04178867959132952e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.346661e-01	1.020005e-02	1.020005e-02
+1.500000e+01	2.500000e+01	2.369006e-01	9.886694e-03	9.886694e-03
+2.500000e+01	4.000000e+01	1.122641e-01	5.387381e-03	5.387381e-03
+4.000000e+01	8.000000e+01	3.949460e-02	2.006843e-03	2.006843e-03
+8.000000e+01	1.300000e+04	7.203182e-05	4.834333e-06	4.834333e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93302_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93302_]
+ScaledBy=3.04178839936845077e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.364566e-01	1.029033e-02	1.029033e-02
+1.500000e+01	2.500000e+01	2.381647e-01	9.929209e-03	9.929209e-03
+2.500000e+01	4.000000e+01	1.127149e-01	5.406375e-03	5.406375e-03
+4.000000e+01	8.000000e+01	3.963928e-02	2.012058e-03	2.012058e-03
+8.000000e+01	1.300000e+04	7.195620e-05	4.835813e-06	4.835813e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93301_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93301_]
+ScaledBy=3.04178858312595390e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.352843e-01	1.026241e-02	1.026241e-02
+1.500000e+01	2.500000e+01	2.374419e-01	9.910849e-03	9.910849e-03
+2.500000e+01	4.000000e+01	1.122789e-01	5.405769e-03	5.405769e-03
+4.000000e+01	8.000000e+01	3.954858e-02	2.009600e-03	2.009600e-03
+8.000000e+01	1.300000e+04	7.221142e-05	4.842522e-06	4.842522e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93300_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF93300_]
+ScaledBy=3.04178877861352058e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.350837e-01	1.027811e-02	1.027811e-02
+1.500000e+01	2.500000e+01	2.369733e-01	9.890773e-03	9.890773e-03
+2.500000e+01	4.000000e+01	1.123569e-01	5.390363e-03	5.390363e-03
+4.000000e+01	8.000000e+01	3.952983e-02	2.009554e-03	2.009554e-03
+8.000000e+01	1.300000e+04	7.213156e-05	4.847478e-06	4.847478e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF331700_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF331700_]
+ScaledBy=3.04178778969061304e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.342089e-01	9.989222e-03	9.989222e-03
+1.500000e+01	2.500000e+01	2.379895e-01	9.893374e-03	9.893374e-03
+2.500000e+01	4.000000e+01	1.124779e-01	5.389008e-03	5.389008e-03
+4.000000e+01	8.000000e+01	3.947747e-02	1.991123e-03	1.991123e-03
+8.000000e+01	1.300000e+04	7.073052e-05	4.748994e-06	4.748994e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF331500_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF331500_]
+ScaledBy=3.04178750811220184e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.350291e-01	1.001664e-02	1.001664e-02
+1.500000e+01	2.500000e+01	2.384386e-01	9.908897e-03	9.908897e-03
+2.500000e+01	4.000000e+01	1.123845e-01	5.397607e-03	5.397607e-03
+4.000000e+01	8.000000e+01	3.944815e-02	1.990924e-03	1.990924e-03
+8.000000e+01	1.300000e+04	7.046909e-05	4.724669e-06	4.724669e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF304400_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF304400_]
+ScaledBy=3.04178814971228697e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.380148e-01	1.017476e-02	1.017476e-02
+1.500000e+01	2.500000e+01	2.426706e-01	1.007224e-02	1.007224e-02
+2.500000e+01	4.000000e+01	1.148563e-01	5.464552e-03	5.464552e-03
+4.000000e+01	8.000000e+01	4.012292e-02	2.030480e-03	2.030480e-03
+8.000000e+01	1.300000e+04	7.230668e-05	4.830702e-06	4.830702e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF304200_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF304200_]
+ScaledBy=3.04178865629915317e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.398660e-01	1.030840e-02	1.030840e-02
+1.500000e+01	2.500000e+01	2.451345e-01	1.020830e-02	1.020830e-02
+2.500000e+01	4.000000e+01	1.161067e-01	5.542185e-03	5.542185e-03
+4.000000e+01	8.000000e+01	4.068107e-02	2.058637e-03	2.058637e-03
+8.000000e+01	1.300000e+04	7.359367e-05	4.926464e-06	4.926464e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303200_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303200_]
+ScaledBy=3.04178867954464681e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.368834e-01	1.014709e-02	1.014709e-02
+1.500000e+01	2.500000e+01	2.397180e-01	9.988362e-03	9.988362e-03
+2.500000e+01	4.000000e+01	1.138146e-01	5.435028e-03	5.435028e-03
+4.000000e+01	8.000000e+01	3.997530e-02	2.029197e-03	2.029197e-03
+8.000000e+01	1.300000e+04	7.288595e-05	4.876995e-06	4.876995e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303100_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303100_]
+ScaledBy=3.04178947289312227e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385702e-01	1.026810e-02	1.026810e-02
+1.500000e+01	2.500000e+01	2.425325e-01	1.014726e-02	1.014726e-02
+2.500000e+01	4.000000e+01	1.154643e-01	5.534427e-03	5.534427e-03
+4.000000e+01	8.000000e+01	4.070065e-02	2.072715e-03	2.072715e-03
+8.000000e+01	1.300000e+04	7.492413e-05	5.020797e-06	5.020797e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303099_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303099_]
+ScaledBy=3.04178947527708032e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385885e-01	1.026942e-02	1.026942e-02
+1.500000e+01	2.500000e+01	2.425502e-01	1.014826e-02	1.014826e-02
+2.500000e+01	4.000000e+01	1.154597e-01	5.535346e-03	5.535346e-03
+4.000000e+01	8.000000e+01	4.070687e-02	2.072953e-03	2.072953e-03
+8.000000e+01	1.300000e+04	7.494657e-05	5.022146e-06	5.022146e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303098_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303098_]
+ScaledBy=3.04178948364420805e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.386307e-01	1.026963e-02	1.026963e-02
+1.500000e+01	2.500000e+01	2.425655e-01	1.014894e-02	1.014894e-02
+2.500000e+01	4.000000e+01	1.154669e-01	5.535679e-03	5.535679e-03
+4.000000e+01	8.000000e+01	4.070962e-02	2.073083e-03	2.073083e-03
+8.000000e+01	1.300000e+04	7.494834e-05	5.022455e-06	5.022455e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303097_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303097_]
+ScaledBy=3.04178947018850059e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385633e-01	1.026813e-02	1.026813e-02
+1.500000e+01	2.500000e+01	2.425429e-01	1.014783e-02	1.014783e-02
+2.500000e+01	4.000000e+01	1.154554e-01	5.534761e-03	5.534761e-03
+4.000000e+01	8.000000e+01	4.070740e-02	2.072833e-03	2.072833e-03
+8.000000e+01	1.300000e+04	7.491049e-05	5.020813e-06	5.020813e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303096_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303096_]
+ScaledBy=3.04178947974693406e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385458e-01	1.026721e-02	1.026721e-02
+1.500000e+01	2.500000e+01	2.425093e-01	1.014673e-02	1.014673e-02
+2.500000e+01	4.000000e+01	1.154323e-01	5.534119e-03	5.534119e-03
+4.000000e+01	8.000000e+01	4.070450e-02	2.072532e-03	2.072532e-03
+8.000000e+01	1.300000e+04	7.492282e-05	5.020463e-06	5.020463e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303095_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303095_]
+ScaledBy=3.04178946695521629e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385163e-01	1.026655e-02	1.026655e-02
+1.500000e+01	2.500000e+01	2.425222e-01	1.014697e-02	1.014697e-02
+2.500000e+01	4.000000e+01	1.154544e-01	5.534990e-03	5.534990e-03
+4.000000e+01	8.000000e+01	4.069763e-02	2.072616e-03	2.072616e-03
+8.000000e+01	1.300000e+04	7.488695e-05	5.019696e-06	5.019696e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303094_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303094_]
+ScaledBy=3.04178946874030182e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.384710e-01	1.026641e-02	1.026641e-02
+1.500000e+01	2.500000e+01	2.425179e-01	1.014592e-02	1.014592e-02
+2.500000e+01	4.000000e+01	1.154094e-01	5.534438e-03	5.534438e-03
+4.000000e+01	8.000000e+01	4.069532e-02	2.072409e-03	2.072409e-03
+8.000000e+01	1.300000e+04	7.491175e-05	5.020123e-06	5.020123e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303093_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303093_]
+ScaledBy=3.04178948976270092e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385922e-01	1.026791e-02	1.026791e-02
+1.500000e+01	2.500000e+01	2.425360e-01	1.014706e-02	1.014706e-02
+2.500000e+01	4.000000e+01	1.154549e-01	5.534495e-03	5.534495e-03
+4.000000e+01	8.000000e+01	4.070187e-02	2.072580e-03	2.072580e-03
+8.000000e+01	1.300000e+04	7.496241e-05	5.021964e-06	5.021964e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303092_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303092_]
+ScaledBy=3.04178948467805337e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.386200e-01	1.026888e-02	1.026888e-02
+1.500000e+01	2.500000e+01	2.425499e-01	1.014773e-02	1.014773e-02
+2.500000e+01	4.000000e+01	1.154587e-01	5.535215e-03	5.535215e-03
+4.000000e+01	8.000000e+01	4.070397e-02	2.072813e-03	2.072813e-03
+8.000000e+01	1.300000e+04	7.491958e-05	5.021446e-06	5.021446e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303091_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303091_]
+ScaledBy=3.04178948479626263e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385438e-01	1.026723e-02	1.026723e-02
+1.500000e+01	2.500000e+01	2.425395e-01	1.014654e-02	1.014654e-02
+2.500000e+01	4.000000e+01	1.154294e-01	5.534525e-03	5.534525e-03
+4.000000e+01	8.000000e+01	4.069860e-02	2.072514e-03	2.072514e-03
+8.000000e+01	1.300000e+04	7.492384e-05	5.021185e-06	5.021185e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303090_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303090_]
+ScaledBy=3.04178948468240276e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.386096e-01	1.026894e-02	1.026894e-02
+1.500000e+01	2.500000e+01	2.425158e-01	1.014700e-02	1.014700e-02
+2.500000e+01	4.000000e+01	1.154565e-01	5.534540e-03	5.534540e-03
+4.000000e+01	8.000000e+01	4.069963e-02	2.072590e-03	2.072590e-03
+8.000000e+01	1.300000e+04	7.496492e-05	5.022019e-06	5.022019e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303089_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303089_]
+ScaledBy=3.04178948291048334e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.386400e-01	1.026951e-02	1.026951e-02
+1.500000e+01	2.500000e+01	2.425194e-01	1.014751e-02	1.014751e-02
+2.500000e+01	4.000000e+01	1.154380e-01	5.535691e-03	5.535691e-03
+4.000000e+01	8.000000e+01	4.069585e-02	2.072713e-03	2.072713e-03
+8.000000e+01	1.300000e+04	7.497416e-05	5.022824e-06	5.022824e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303088_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303088_]
+ScaledBy=3.04178947505151119e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385403e-01	1.026637e-02	1.026637e-02
+1.500000e+01	2.500000e+01	2.425302e-01	1.014615e-02	1.014615e-02
+2.500000e+01	4.000000e+01	1.154261e-01	5.534480e-03	5.534480e-03
+4.000000e+01	8.000000e+01	4.069515e-02	2.072506e-03	2.072506e-03
+8.000000e+01	1.300000e+04	7.493093e-05	5.020990e-06	5.020990e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303087_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303087_]
+ScaledBy=3.04178948133487174e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385415e-01	1.026839e-02	1.026839e-02
+1.500000e+01	2.500000e+01	2.425480e-01	1.014744e-02	1.014744e-02
+2.500000e+01	4.000000e+01	1.154325e-01	5.534380e-03	5.534380e-03
+4.000000e+01	8.000000e+01	4.070425e-02	2.072836e-03	2.072836e-03
+8.000000e+01	1.300000e+04	7.493625e-05	5.021439e-06	5.021439e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303086_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303086_]
+ScaledBy=3.04178948024038743e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385918e-01	1.026796e-02	1.026796e-02
+1.500000e+01	2.500000e+01	2.425516e-01	1.014752e-02	1.014752e-02
+2.500000e+01	4.000000e+01	1.154651e-01	5.534509e-03	5.534509e-03
+4.000000e+01	8.000000e+01	4.070078e-02	2.072811e-03	2.072811e-03
+8.000000e+01	1.300000e+04	7.488550e-05	5.020988e-06	5.020988e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303085_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303085_]
+ScaledBy=3.04178947953835177e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385529e-01	1.026865e-02	1.026865e-02
+1.500000e+01	2.500000e+01	2.425305e-01	1.014872e-02	1.014872e-02
+2.500000e+01	4.000000e+01	1.154529e-01	5.535969e-03	5.535969e-03
+4.000000e+01	8.000000e+01	4.070760e-02	2.072986e-03	2.072986e-03
+8.000000e+01	1.300000e+04	7.493166e-05	5.022344e-06	5.022344e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303084_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303084_]
+ScaledBy=3.04178947482494459e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385687e-01	1.026709e-02	1.026709e-02
+1.500000e+01	2.500000e+01	2.424915e-01	1.014613e-02	1.014613e-02
+2.500000e+01	4.000000e+01	1.154569e-01	5.534118e-03	5.534118e-03
+4.000000e+01	8.000000e+01	4.069125e-02	2.072325e-03	2.072325e-03
+8.000000e+01	1.300000e+04	7.491076e-05	5.019924e-06	5.019924e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303083_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303083_]
+ScaledBy=3.04178947700787594e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385611e-01	1.026892e-02	1.026892e-02
+1.500000e+01	2.500000e+01	2.425763e-01	1.014861e-02	1.014861e-02
+2.500000e+01	4.000000e+01	1.154207e-01	5.536341e-03	5.536341e-03
+4.000000e+01	8.000000e+01	4.070957e-02	2.073043e-03	2.073043e-03
+8.000000e+01	1.300000e+04	7.493964e-05	5.022007e-06	5.022007e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303082_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303082_]
+ScaledBy=3.04178947788897756e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385452e-01	1.026663e-02	1.026663e-02
+1.500000e+01	2.500000e+01	2.425020e-01	1.014621e-02	1.014621e-02
+2.500000e+01	4.000000e+01	1.154538e-01	5.534169e-03	5.534169e-03
+4.000000e+01	8.000000e+01	4.069650e-02	2.072472e-03	2.072472e-03
+8.000000e+01	1.300000e+04	7.493655e-05	5.021085e-06	5.021085e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303081_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303081_]
+ScaledBy=3.04178948271716662e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385896e-01	1.026781e-02	1.026781e-02
+1.500000e+01	2.500000e+01	2.425500e-01	1.014725e-02	1.014725e-02
+2.500000e+01	4.000000e+01	1.154428e-01	5.534681e-03	5.534681e-03
+4.000000e+01	8.000000e+01	4.069515e-02	2.072582e-03	2.072582e-03
+8.000000e+01	1.300000e+04	7.487565e-05	5.020287e-06	5.020287e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303080_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303080_]
+ScaledBy=3.04178947699329733e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.386057e-01	1.026899e-02	1.026899e-02
+1.500000e+01	2.500000e+01	2.425483e-01	1.014797e-02	1.014797e-02
+2.500000e+01	4.000000e+01	1.154493e-01	5.535175e-03	5.535175e-03
+4.000000e+01	8.000000e+01	4.070315e-02	2.072730e-03	2.072730e-03
+8.000000e+01	1.300000e+04	7.489171e-05	5.020387e-06	5.020387e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303079_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303079_]
+ScaledBy=3.04178949231877303e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.384436e-01	1.026709e-02	1.026709e-02
+1.500000e+01	2.500000e+01	2.425284e-01	1.014634e-02	1.014634e-02
+2.500000e+01	4.000000e+01	1.154645e-01	5.533946e-03	5.533946e-03
+4.000000e+01	8.000000e+01	4.069508e-02	2.072464e-03	2.072464e-03
+8.000000e+01	1.300000e+04	7.497326e-05	5.021809e-06	5.021809e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303078_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303078_]
+ScaledBy=3.04178947628853122e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.386249e-01	1.026955e-02	1.026955e-02
+1.500000e+01	2.500000e+01	2.425599e-01	1.014919e-02	1.014919e-02
+2.500000e+01	4.000000e+01	1.154407e-01	5.535984e-03	5.535984e-03
+4.000000e+01	8.000000e+01	4.071070e-02	2.073219e-03	2.073219e-03
+8.000000e+01	1.300000e+04	7.496248e-05	5.022807e-06	5.022807e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303077_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303077_]
+ScaledBy=3.04178946434081887e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.386954e-01	1.026853e-02	1.026853e-02
+1.500000e+01	2.500000e+01	2.425083e-01	1.014601e-02	1.014601e-02
+2.500000e+01	4.000000e+01	1.154506e-01	5.533417e-03	5.533417e-03
+4.000000e+01	8.000000e+01	4.069770e-02	2.072360e-03	2.072360e-03
+8.000000e+01	1.300000e+04	7.479893e-05	5.018680e-06	5.018680e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303076_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303076_]
+ScaledBy=3.04178947639629571e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.386140e-01	1.026943e-02	1.026943e-02
+1.500000e+01	2.500000e+01	2.425709e-01	1.014949e-02	1.014949e-02
+2.500000e+01	4.000000e+01	1.154279e-01	5.536441e-03	5.536441e-03
+4.000000e+01	8.000000e+01	4.071238e-02	2.073285e-03	2.073285e-03
+8.000000e+01	1.300000e+04	7.493111e-05	5.022433e-06	5.022433e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303075_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303075_]
+ScaledBy=3.04178948899338835e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385096e-01	1.026295e-02	1.026295e-02
+1.500000e+01	2.500000e+01	2.424502e-01	1.014365e-02	1.014365e-02
+2.500000e+01	4.000000e+01	1.154202e-01	5.531575e-03	5.531575e-03
+4.000000e+01	8.000000e+01	4.068000e-02	2.071360e-03	2.071360e-03
+8.000000e+01	1.300000e+04	7.485426e-05	5.017026e-06	5.017026e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303074_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303074_]
+ScaledBy=3.04178946477536970e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.386415e-01	1.026889e-02	1.026889e-02
+1.500000e+01	2.500000e+01	2.425025e-01	1.014615e-02	1.014615e-02
+2.500000e+01	4.000000e+01	1.154601e-01	5.534246e-03	5.534246e-03
+4.000000e+01	8.000000e+01	4.069317e-02	2.072445e-03	2.072445e-03
+8.000000e+01	1.300000e+04	7.488226e-05	5.019629e-06	5.019629e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303073_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303073_]
+ScaledBy=3.04178947584561512e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385108e-01	1.026654e-02	1.026654e-02
+1.500000e+01	2.500000e+01	2.424976e-01	1.014558e-02	1.014558e-02
+2.500000e+01	4.000000e+01	1.154437e-01	5.533694e-03	5.533694e-03
+4.000000e+01	8.000000e+01	4.069190e-02	2.072244e-03	2.072244e-03
+8.000000e+01	1.300000e+04	7.491151e-05	5.020001e-06	5.020001e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303072_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303072_]
+ScaledBy=3.04178946773801286e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385805e-01	1.026744e-02	1.026744e-02
+1.500000e+01	2.500000e+01	2.424952e-01	1.014581e-02	1.014581e-02
+2.500000e+01	4.000000e+01	1.154100e-01	5.533943e-03	5.533943e-03
+4.000000e+01	8.000000e+01	4.069142e-02	2.072084e-03	2.072084e-03
+8.000000e+01	1.300000e+04	7.490242e-05	5.019882e-06	5.019882e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303071_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303071_]
+ScaledBy=3.04178947181496778e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.387372e-01	1.027313e-02	1.027313e-02
+1.500000e+01	2.500000e+01	2.425717e-01	1.014986e-02	1.014986e-02
+2.500000e+01	4.000000e+01	1.154838e-01	5.536811e-03	5.536811e-03
+4.000000e+01	8.000000e+01	4.071475e-02	2.073543e-03	2.073543e-03
+8.000000e+01	1.300000e+04	7.493437e-05	5.023628e-06	5.023628e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303070_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303070_]
+ScaledBy=3.04178946412337042e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.383915e-01	1.026185e-02	1.026185e-02
+1.500000e+01	2.500000e+01	2.424640e-01	1.014232e-02	1.014232e-02
+2.500000e+01	4.000000e+01	1.154109e-01	5.531560e-03	5.531560e-03
+4.000000e+01	8.000000e+01	4.067535e-02	2.071379e-03	2.071379e-03
+8.000000e+01	1.300000e+04	7.484082e-05	5.016524e-06	5.016524e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303069_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303069_]
+ScaledBy=3.04178948109566421e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.386659e-01	1.026761e-02	1.026761e-02
+1.500000e+01	2.500000e+01	2.425137e-01	1.014561e-02	1.014561e-02
+2.500000e+01	4.000000e+01	1.154412e-01	5.533866e-03	5.533866e-03
+4.000000e+01	8.000000e+01	4.069695e-02	2.072484e-03	2.072484e-03
+8.000000e+01	1.300000e+04	7.492692e-05	5.020569e-06	5.020569e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303068_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303068_]
+ScaledBy=3.04178947626130083e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.387532e-01	1.027146e-02	1.027146e-02
+1.500000e+01	2.500000e+01	2.425394e-01	1.014804e-02	1.014804e-02
+2.500000e+01	4.000000e+01	1.154323e-01	5.535281e-03	5.535281e-03
+4.000000e+01	8.000000e+01	4.070195e-02	2.072719e-03	2.072719e-03
+8.000000e+01	1.300000e+04	7.489478e-05	5.020722e-06	5.020722e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303067_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303067_]
+ScaledBy=3.04178947733508556e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385428e-01	1.026556e-02	1.026556e-02
+1.500000e+01	2.500000e+01	2.424539e-01	1.014415e-02	1.014415e-02
+2.500000e+01	4.000000e+01	1.154335e-01	5.532706e-03	5.532706e-03
+4.000000e+01	8.000000e+01	4.068305e-02	2.071751e-03	2.071751e-03
+8.000000e+01	1.300000e+04	7.487094e-05	5.018482e-06	5.018482e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303066_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303066_]
+ScaledBy=3.04178948082648457e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385026e-01	1.026718e-02	1.026718e-02
+1.500000e+01	2.500000e+01	2.425002e-01	1.014555e-02	1.014555e-02
+2.500000e+01	4.000000e+01	1.154492e-01	5.533470e-03	5.533470e-03
+4.000000e+01	8.000000e+01	4.070012e-02	2.072243e-03	2.072243e-03
+8.000000e+01	1.300000e+04	7.489154e-05	5.019629e-06	5.019629e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303065_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303065_]
+ScaledBy=3.04178949109704761e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.389010e-01	1.027695e-02	1.027695e-02
+1.500000e+01	2.500000e+01	2.426036e-01	1.015138e-02	1.015138e-02
+2.500000e+01	4.000000e+01	1.154615e-01	5.537650e-03	5.537650e-03
+4.000000e+01	8.000000e+01	4.072275e-02	2.073817e-03	2.073817e-03
+8.000000e+01	1.300000e+04	7.493562e-05	5.024006e-06	5.024006e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303064_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303064_]
+ScaledBy=3.04178948223288084e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.388435e-01	1.027630e-02	1.027630e-02
+1.500000e+01	2.500000e+01	2.425320e-01	1.014909e-02	1.014909e-02
+2.500000e+01	4.000000e+01	1.155033e-01	5.535410e-03	5.535410e-03
+4.000000e+01	8.000000e+01	4.070902e-02	2.073026e-03	2.073026e-03
+8.000000e+01	1.300000e+04	7.487521e-05	5.022148e-06	5.022148e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303063_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303063_]
+ScaledBy=3.04178946573165033e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.387934e-01	1.027396e-02	1.027396e-02
+1.500000e+01	2.500000e+01	2.425907e-01	1.014723e-02	1.014723e-02
+2.500000e+01	4.000000e+01	1.153991e-01	5.534970e-03	5.534970e-03
+4.000000e+01	8.000000e+01	4.070505e-02	2.072706e-03	2.072706e-03
+8.000000e+01	1.300000e+04	7.482512e-05	5.018805e-06	5.018805e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303062_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303062_]
+ScaledBy=3.04178948821344063e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.386929e-01	1.026946e-02	1.026946e-02
+1.500000e+01	2.500000e+01	2.424473e-01	1.014509e-02	1.014509e-02
+2.500000e+01	4.000000e+01	1.154553e-01	5.533867e-03	5.533867e-03
+4.000000e+01	8.000000e+01	4.069893e-02	2.072493e-03	2.072493e-03
+8.000000e+01	1.300000e+04	7.493037e-05	5.022776e-06	5.022776e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303061_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303061_]
+ScaledBy=3.04178948195735384e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.388224e-01	1.027554e-02	1.027554e-02
+1.500000e+01	2.500000e+01	2.425697e-01	1.015023e-02	1.015023e-02
+2.500000e+01	4.000000e+01	1.155373e-01	5.536251e-03	5.536251e-03
+4.000000e+01	8.000000e+01	4.072165e-02	2.073542e-03	2.073542e-03
+8.000000e+01	1.300000e+04	7.491738e-05	5.023621e-06	5.023621e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303060_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303060_]
+ScaledBy=3.04178947926517186e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.386340e-01	1.026731e-02	1.026731e-02
+1.500000e+01	2.500000e+01	2.425544e-01	1.014788e-02	1.014788e-02
+2.500000e+01	4.000000e+01	1.154395e-01	5.534811e-03	5.534811e-03
+4.000000e+01	8.000000e+01	4.071267e-02	2.072976e-03	2.072976e-03
+8.000000e+01	1.300000e+04	7.491269e-05	5.021219e-06	5.021219e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303059_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303059_]
+ScaledBy=3.04178948003148075e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385764e-01	1.026975e-02	1.026975e-02
+1.500000e+01	2.500000e+01	2.425054e-01	1.014723e-02	1.014723e-02
+2.500000e+01	4.000000e+01	1.154902e-01	5.535279e-03	5.535279e-03
+4.000000e+01	8.000000e+01	4.071308e-02	2.073138e-03	2.073138e-03
+8.000000e+01	1.300000e+04	7.493454e-05	5.023290e-06	5.023290e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303058_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303058_]
+ScaledBy=3.04178946925410653e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.383062e-01	1.026882e-02	1.026882e-02
+1.500000e+01	2.500000e+01	2.425891e-01	1.014831e-02	1.014831e-02
+2.500000e+01	4.000000e+01	1.154223e-01	5.536004e-03	5.536004e-03
+4.000000e+01	8.000000e+01	4.070363e-02	2.073219e-03	2.073219e-03
+8.000000e+01	1.300000e+04	7.496983e-05	5.023776e-06	5.023776e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303057_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303057_]
+ScaledBy=3.04178947431914780e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.383645e-01	1.026847e-02	1.026847e-02
+1.500000e+01	2.500000e+01	2.425895e-01	1.014911e-02	1.014911e-02
+2.500000e+01	4.000000e+01	1.154502e-01	5.535391e-03	5.535391e-03
+4.000000e+01	8.000000e+01	4.070840e-02	2.073096e-03	2.073096e-03
+8.000000e+01	1.300000e+04	7.494325e-05	5.022331e-06	5.022331e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303056_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303056_]
+ScaledBy=3.04178947217437776e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.384466e-01	1.026138e-02	1.026138e-02
+1.500000e+01	2.500000e+01	2.424058e-01	1.014098e-02	1.014098e-02
+2.500000e+01	4.000000e+01	1.153935e-01	5.529838e-03	5.529838e-03
+4.000000e+01	8.000000e+01	4.066427e-02	2.070717e-03	2.070717e-03
+8.000000e+01	1.300000e+04	7.480230e-05	5.013854e-06	5.013854e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303055_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303055_]
+ScaledBy=3.04178948689541205e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.392247e-01	1.029633e-02	1.029633e-02
+1.500000e+01	2.500000e+01	2.425642e-01	1.014877e-02	1.014877e-02
+2.500000e+01	4.000000e+01	1.154847e-01	5.536083e-03	5.536083e-03
+4.000000e+01	8.000000e+01	4.071157e-02	2.073291e-03	2.073291e-03
+8.000000e+01	1.300000e+04	7.490180e-05	5.022150e-06	5.022150e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303054_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303054_]
+ScaledBy=3.04178950356022394e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.388380e-01	1.027800e-02	1.027800e-02
+1.500000e+01	2.500000e+01	2.425909e-01	1.015483e-02	1.015483e-02
+2.500000e+01	4.000000e+01	1.155629e-01	5.540410e-03	5.540410e-03
+4.000000e+01	8.000000e+01	4.073590e-02	2.074748e-03	2.074748e-03
+8.000000e+01	1.300000e+04	7.503289e-05	5.029395e-06	5.029395e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303053_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303053_]
+ScaledBy=3.04178947479383970e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.389775e-01	1.028213e-02	1.028213e-02
+1.500000e+01	2.500000e+01	2.426022e-01	1.014944e-02	1.014944e-02
+2.500000e+01	4.000000e+01	1.154876e-01	5.535783e-03	5.535783e-03
+4.000000e+01	8.000000e+01	4.071297e-02	2.073325e-03	2.073325e-03
+8.000000e+01	1.300000e+04	7.487726e-05	5.021097e-06	5.021097e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303052_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303052_]
+ScaledBy=3.04178947104026412e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.386491e-01	1.027097e-02	1.027097e-02
+1.500000e+01	2.500000e+01	2.425520e-01	1.014979e-02	1.014979e-02
+2.500000e+01	4.000000e+01	1.154763e-01	5.536294e-03	5.536294e-03
+4.000000e+01	8.000000e+01	4.071840e-02	2.073379e-03	2.073379e-03
+8.000000e+01	1.300000e+04	7.493033e-05	5.023364e-06	5.023364e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303051_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303051_]
+ScaledBy=3.04178948235155327e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.379981e-01	1.026780e-02	1.026780e-02
+1.500000e+01	2.500000e+01	2.424485e-01	1.014596e-02	1.014596e-02
+2.500000e+01	4.000000e+01	1.154639e-01	5.533451e-03	5.533451e-03
+4.000000e+01	8.000000e+01	4.069322e-02	2.072216e-03	2.072216e-03
+8.000000e+01	1.300000e+04	7.496934e-05	5.021965e-06	5.021965e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303050_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303050_]
+ScaledBy=3.04178949046994508e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.388876e-01	1.027743e-02	1.027743e-02
+1.500000e+01	2.500000e+01	2.426029e-01	1.014948e-02	1.014948e-02
+2.500000e+01	4.000000e+01	1.154607e-01	5.536084e-03	5.536084e-03
+4.000000e+01	8.000000e+01	4.070253e-02	2.073151e-03	2.073151e-03
+8.000000e+01	1.300000e+04	7.494550e-05	5.021873e-06	5.021873e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303049_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303049_]
+ScaledBy=3.04178947972871122e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.388329e-01	1.027735e-02	1.027735e-02
+1.500000e+01	2.500000e+01	2.426534e-01	1.015458e-02	1.015458e-02
+2.500000e+01	4.000000e+01	1.155341e-01	5.539907e-03	5.539907e-03
+4.000000e+01	8.000000e+01	4.074113e-02	2.074555e-03	2.074555e-03
+8.000000e+01	1.300000e+04	7.498057e-05	5.026722e-06	5.026722e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303048_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303048_]
+ScaledBy=3.04178947366146122e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.384237e-01	1.027071e-02	1.027071e-02
+1.500000e+01	2.500000e+01	2.424825e-01	1.014691e-02	1.014691e-02
+2.500000e+01	4.000000e+01	1.154344e-01	5.535523e-03	5.535523e-03
+4.000000e+01	8.000000e+01	4.070248e-02	2.072460e-03	2.072460e-03
+8.000000e+01	1.300000e+04	7.486680e-05	5.021048e-06	5.021048e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303047_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303047_]
+ScaledBy=3.04178948327657158e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.384295e-01	1.026201e-02	1.026201e-02
+1.500000e+01	2.500000e+01	2.424122e-01	1.014122e-02	1.014122e-02
+2.500000e+01	4.000000e+01	1.154127e-01	5.530376e-03	5.530376e-03
+4.000000e+01	8.000000e+01	4.066522e-02	2.071142e-03	2.071142e-03
+8.000000e+01	1.300000e+04	7.485964e-05	5.015546e-06	5.015546e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303046_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303046_]
+ScaledBy=3.04178948552681931e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.390937e-01	1.028192e-02	1.028192e-02
+1.500000e+01	2.500000e+01	2.424519e-01	1.014308e-02	1.014308e-02
+2.500000e+01	4.000000e+01	1.153697e-01	5.533080e-03	5.533080e-03
+4.000000e+01	8.000000e+01	4.067195e-02	2.071799e-03	2.071799e-03
+8.000000e+01	1.300000e+04	7.484286e-05	5.017529e-06	5.017529e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303045_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303045_]
+ScaledBy=3.04178947685278646e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.384226e-01	1.026917e-02	1.026917e-02
+1.500000e+01	2.500000e+01	2.426227e-01	1.015120e-02	1.015120e-02
+2.500000e+01	4.000000e+01	1.155005e-01	5.536448e-03	5.536448e-03
+4.000000e+01	8.000000e+01	4.071942e-02	2.073584e-03	2.073584e-03
+8.000000e+01	1.300000e+04	7.493943e-05	5.023208e-06	5.023208e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303044_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303044_]
+ScaledBy=3.04178947530167566e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.380175e-01	1.026524e-02	1.026524e-02
+1.500000e+01	2.500000e+01	2.424467e-01	1.014579e-02	1.014579e-02
+2.500000e+01	4.000000e+01	1.154640e-01	5.533438e-03	5.533438e-03
+4.000000e+01	8.000000e+01	4.070235e-02	2.072277e-03	2.072277e-03
+8.000000e+01	1.300000e+04	7.492077e-05	5.020486e-06	5.020486e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303043_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303043_]
+ScaledBy=3.04178948383788603e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.384643e-01	1.026307e-02	1.026307e-02
+1.500000e+01	2.500000e+01	2.424588e-01	1.014197e-02	1.014197e-02
+2.500000e+01	4.000000e+01	1.154077e-01	5.531141e-03	5.531141e-03
+4.000000e+01	8.000000e+01	4.066770e-02	2.071394e-03	2.071394e-03
+8.000000e+01	1.300000e+04	7.485709e-05	5.017420e-06	5.017420e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303042_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303042_]
+ScaledBy=3.04178946585037828e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385278e-01	1.026667e-02	1.026667e-02
+1.500000e+01	2.500000e+01	2.425226e-01	1.014543e-02	1.014543e-02
+2.500000e+01	4.000000e+01	1.153965e-01	5.534405e-03	5.534405e-03
+4.000000e+01	8.000000e+01	4.068558e-02	2.072351e-03	2.072351e-03
+8.000000e+01	1.300000e+04	7.490896e-05	5.020088e-06	5.020088e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303041_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303041_]
+ScaledBy=3.04178948334793246e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.386004e-01	1.026604e-02	1.026604e-02
+1.500000e+01	2.500000e+01	2.425432e-01	1.014710e-02	1.014710e-02
+2.500000e+01	4.000000e+01	1.154321e-01	5.534393e-03	5.534393e-03
+4.000000e+01	8.000000e+01	4.069937e-02	2.072338e-03	2.072338e-03
+8.000000e+01	1.300000e+04	7.491080e-05	5.020196e-06	5.020196e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303040_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303040_]
+ScaledBy=3.04178946148269975e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385365e-01	1.026464e-02	1.026464e-02
+1.500000e+01	2.500000e+01	2.423970e-01	1.013827e-02	1.013827e-02
+2.500000e+01	4.000000e+01	1.153049e-01	5.529099e-03	5.529099e-03
+4.000000e+01	8.000000e+01	4.066442e-02	2.070470e-03	2.070470e-03
+8.000000e+01	1.300000e+04	7.483872e-05	5.014502e-06	5.014502e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303039_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303039_]
+ScaledBy=3.04178944439234501e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.382741e-01	1.025195e-02	1.025195e-02
+1.500000e+01	2.500000e+01	2.421760e-01	1.012976e-02	1.012976e-02
+2.500000e+01	4.000000e+01	1.151777e-01	5.526275e-03	5.526275e-03
+4.000000e+01	8.000000e+01	4.062055e-02	2.068629e-03	2.068629e-03
+8.000000e+01	1.300000e+04	7.476348e-05	5.009115e-06	5.009115e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303038_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303038_]
+ScaledBy=3.04178950258698812e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.388276e-01	1.027950e-02	1.027950e-02
+1.500000e+01	2.500000e+01	2.427491e-01	1.015625e-02	1.015625e-02
+2.500000e+01	4.000000e+01	1.155476e-01	5.540639e-03	5.540639e-03
+4.000000e+01	8.000000e+01	4.074050e-02	2.074985e-03	2.074985e-03
+8.000000e+01	1.300000e+04	7.502189e-05	5.028533e-06	5.028533e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303037_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303037_]
+ScaledBy=3.04178948936173737e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385197e-01	1.026973e-02	1.026973e-02
+1.500000e+01	2.500000e+01	2.425387e-01	1.014900e-02	1.014900e-02
+2.500000e+01	4.000000e+01	1.154595e-01	5.535398e-03	5.535398e-03
+4.000000e+01	8.000000e+01	4.070628e-02	2.073241e-03	2.073241e-03
+8.000000e+01	1.300000e+04	7.498724e-05	5.023770e-06	5.023770e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303036_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303036_]
+ScaledBy=3.04178947907749516e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.384354e-01	1.026162e-02	1.026162e-02
+1.500000e+01	2.500000e+01	2.424060e-01	1.014112e-02	1.014112e-02
+2.500000e+01	4.000000e+01	1.153619e-01	5.530801e-03	5.530801e-03
+4.000000e+01	8.000000e+01	4.067178e-02	2.071196e-03	2.071196e-03
+8.000000e+01	1.300000e+04	7.484679e-05	5.016358e-06	5.016358e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303035_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303035_]
+ScaledBy=3.04178948596683148e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.384626e-01	1.026935e-02	1.026935e-02
+1.500000e+01	2.500000e+01	2.425657e-01	1.015083e-02	1.015083e-02
+2.500000e+01	4.000000e+01	1.154788e-01	5.537729e-03	5.537729e-03
+4.000000e+01	8.000000e+01	4.071187e-02	2.073738e-03	2.073738e-03
+8.000000e+01	1.300000e+04	7.498308e-05	5.025101e-06	5.025101e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303034_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303034_]
+ScaledBy=3.04178951753274847e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.389172e-01	1.028855e-02	1.028855e-02
+1.500000e+01	2.500000e+01	2.428198e-01	1.016335e-02	1.016335e-02
+2.500000e+01	4.000000e+01	1.155807e-01	5.544733e-03	5.544733e-03
+4.000000e+01	8.000000e+01	4.075637e-02	2.076883e-03	2.076883e-03
+8.000000e+01	1.300000e+04	7.512561e-05	5.036523e-06	5.036523e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303033_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303033_]
+ScaledBy=3.04178948293699382e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.386212e-01	1.027174e-02	1.027174e-02
+1.500000e+01	2.500000e+01	2.426345e-01	1.015143e-02	1.015143e-02
+2.500000e+01	4.000000e+01	1.154753e-01	5.536942e-03	5.536942e-03
+4.000000e+01	8.000000e+01	4.072065e-02	2.073572e-03	2.073572e-03
+8.000000e+01	1.300000e+04	7.497141e-05	5.023937e-06	5.023937e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303032_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303032_]
+ScaledBy=3.04178943819457788e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.383373e-01	1.025490e-02	1.025490e-02
+1.500000e+01	2.500000e+01	2.422911e-01	1.013430e-02	1.013430e-02
+2.500000e+01	4.000000e+01	1.153574e-01	5.526509e-03	5.526509e-03
+4.000000e+01	8.000000e+01	4.065625e-02	2.069551e-03	2.069551e-03
+8.000000e+01	1.300000e+04	7.473019e-05	5.008703e-06	5.008703e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303031_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303031_]
+ScaledBy=3.04178945880308627e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.388634e-01	1.027964e-02	1.027964e-02
+1.500000e+01	2.500000e+01	2.425051e-01	1.014398e-02	1.014398e-02
+2.500000e+01	4.000000e+01	1.153599e-01	5.531401e-03	5.531401e-03
+4.000000e+01	8.000000e+01	4.067468e-02	2.071393e-03	2.071393e-03
+8.000000e+01	1.300000e+04	7.487891e-05	5.017134e-06	5.017134e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303030_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303030_]
+ScaledBy=3.04178953695303069e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.391623e-01	1.029758e-02	1.029758e-02
+1.500000e+01	2.500000e+01	2.428893e-01	1.016478e-02	1.016478e-02
+2.500000e+01	4.000000e+01	1.156581e-01	5.545007e-03	5.545007e-03
+4.000000e+01	8.000000e+01	4.078618e-02	2.077767e-03	2.077767e-03
+8.000000e+01	1.300000e+04	7.508584e-05	5.034867e-06	5.034867e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303029_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303029_]
+ScaledBy=3.04178951120664693e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.387735e-01	1.028133e-02	1.028133e-02
+1.500000e+01	2.500000e+01	2.427753e-01	1.016004e-02	1.016004e-02
+2.500000e+01	4.000000e+01	1.156053e-01	5.542817e-03	5.542817e-03
+4.000000e+01	8.000000e+01	4.076423e-02	2.076086e-03	2.076086e-03
+8.000000e+01	1.300000e+04	7.507389e-05	5.031930e-06	5.031930e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303028_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303028_]
+ScaledBy=3.04178949590462122e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.388323e-01	1.027868e-02	1.027868e-02
+1.500000e+01	2.500000e+01	2.425271e-01	1.014995e-02	1.014995e-02
+2.500000e+01	4.000000e+01	1.154328e-01	5.538121e-03	5.538121e-03
+4.000000e+01	8.000000e+01	4.071625e-02	2.073475e-03	2.073475e-03
+8.000000e+01	1.300000e+04	7.504268e-05	5.027540e-06	5.027540e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303027_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303027_]
+ScaledBy=3.04178947728008398e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385196e-01	1.026783e-02	1.026783e-02
+1.500000e+01	2.500000e+01	2.425571e-01	1.014702e-02	1.014702e-02
+2.500000e+01	4.000000e+01	1.154673e-01	5.533747e-03	5.533747e-03
+4.000000e+01	8.000000e+01	4.070907e-02	2.072663e-03	2.072663e-03
+8.000000e+01	1.300000e+04	7.490067e-05	5.019493e-06	5.019493e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303026_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303026_]
+ScaledBy=3.04178941030954376e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.384413e-01	1.025741e-02	1.025741e-02
+1.500000e+01	2.500000e+01	2.423572e-01	1.013415e-02	1.013415e-02
+2.500000e+01	4.000000e+01	1.153605e-01	5.526167e-03	5.526167e-03
+4.000000e+01	8.000000e+01	4.065080e-02	2.068994e-03	2.068994e-03
+8.000000e+01	1.300000e+04	7.470891e-05	5.005976e-06	5.005976e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303025_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303025_]
+ScaledBy=3.04178946516367238e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.383200e-01	1.026289e-02	1.026289e-02
+1.500000e+01	2.500000e+01	2.425576e-01	1.014637e-02	1.014637e-02
+2.500000e+01	4.000000e+01	1.154748e-01	5.533697e-03	5.533697e-03
+4.000000e+01	8.000000e+01	4.068890e-02	2.072305e-03	2.072305e-03
+8.000000e+01	1.300000e+04	7.487796e-05	5.018004e-06	5.018004e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303024_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303024_]
+ScaledBy=3.04178943847742802e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.379470e-01	1.026971e-02	1.026971e-02
+1.500000e+01	2.500000e+01	2.426336e-01	1.014551e-02	1.014551e-02
+2.500000e+01	4.000000e+01	1.155381e-01	5.531836e-03	5.531836e-03
+4.000000e+01	8.000000e+01	4.067272e-02	2.071733e-03	2.071733e-03
+8.000000e+01	1.300000e+04	7.477649e-05	5.010474e-06	5.010474e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303023_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303023_]
+ScaledBy=3.04178942218190492e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.382933e-01	1.025780e-02	1.025780e-02
+1.500000e+01	2.500000e+01	2.424728e-01	1.013986e-02	1.013986e-02
+2.500000e+01	4.000000e+01	1.154675e-01	5.529112e-03	5.529112e-03
+4.000000e+01	8.000000e+01	4.066885e-02	2.070454e-03	2.070454e-03
+8.000000e+01	1.300000e+04	7.473886e-05	5.009254e-06	5.009254e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303022_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303022_]
+ScaledBy=3.04178932526041413e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.379343e-01	1.022760e-02	1.022760e-02
+1.500000e+01	2.500000e+01	2.418344e-01	1.010733e-02	1.010733e-02
+2.500000e+01	4.000000e+01	1.151033e-01	5.510852e-03	5.510852e-03
+4.000000e+01	8.000000e+01	4.053242e-02	2.062330e-03	2.062330e-03
+8.000000e+01	1.300000e+04	7.444339e-05	4.986833e-06	4.986833e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303021_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303021_]
+ScaledBy=3.04178947369733140e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.384179e-01	1.026203e-02	1.026203e-02
+1.500000e+01	2.500000e+01	2.425033e-01	1.014313e-02	1.014313e-02
+2.500000e+01	4.000000e+01	1.154360e-01	5.531920e-03	5.531920e-03
+4.000000e+01	8.000000e+01	4.067920e-02	2.071284e-03	2.071284e-03
+8.000000e+01	1.300000e+04	7.484088e-05	5.014204e-06	5.014204e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303020_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303020_]
+ScaledBy=3.04178966440081956e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.393025e-01	1.031042e-02	1.031042e-02
+1.500000e+01	2.500000e+01	2.430940e-01	1.018421e-02	1.018421e-02
+2.500000e+01	4.000000e+01	1.156687e-01	5.558425e-03	5.558425e-03
+4.000000e+01	8.000000e+01	4.084913e-02	2.082410e-03	2.082410e-03
+8.000000e+01	1.300000e+04	7.541192e-05	5.055967e-06	5.055967e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303019_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303019_]
+ScaledBy=3.04178954439103706e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.387989e-01	1.028572e-02	1.028572e-02
+1.500000e+01	2.500000e+01	2.422442e-01	1.014758e-02	1.014758e-02
+2.500000e+01	4.000000e+01	1.152383e-01	5.537118e-03	5.537118e-03
+4.000000e+01	8.000000e+01	4.071908e-02	2.074027e-03	2.074027e-03
+8.000000e+01	1.300000e+04	7.511431e-05	5.037871e-06	5.037871e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303018_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303018_]
+ScaledBy=3.04178953811612071e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.388269e-01	1.027989e-02	1.027989e-02
+1.500000e+01	2.500000e+01	2.426223e-01	1.015591e-02	1.015591e-02
+2.500000e+01	4.000000e+01	1.154553e-01	5.539721e-03	5.539721e-03
+4.000000e+01	8.000000e+01	4.073070e-02	2.074705e-03	2.074705e-03
+8.000000e+01	1.300000e+04	7.501882e-05	5.029108e-06	5.029108e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303017_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303017_]
+ScaledBy=3.04178953882833789e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.390304e-01	1.028992e-02	1.028992e-02
+1.500000e+01	2.500000e+01	2.427479e-01	1.016198e-02	1.016198e-02
+2.500000e+01	4.000000e+01	1.154991e-01	5.544272e-03	5.544272e-03
+4.000000e+01	8.000000e+01	4.075653e-02	2.076292e-03	2.076292e-03
+8.000000e+01	1.300000e+04	7.510159e-05	5.033634e-06	5.033634e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303016_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303016_]
+ScaledBy=3.04178964364159969e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.397201e-01	1.032535e-02	1.032535e-02
+1.500000e+01	2.500000e+01	2.437903e-01	1.020344e-02	1.020344e-02
+2.500000e+01	4.000000e+01	1.160682e-01	5.567057e-03	5.567057e-03
+4.000000e+01	8.000000e+01	4.091293e-02	2.084747e-03	2.084747e-03
+8.000000e+01	1.300000e+04	7.537403e-05	5.049570e-06	5.049570e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303015_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303015_]
+ScaledBy=3.04178952152240690e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.372507e-01	1.021441e-02	1.021441e-02
+1.500000e+01	2.500000e+01	2.410991e-01	1.009087e-02	1.009087e-02
+2.500000e+01	4.000000e+01	1.147941e-01	5.505139e-03	5.505139e-03
+4.000000e+01	8.000000e+01	4.049000e-02	2.062708e-03	2.062708e-03
+8.000000e+01	1.300000e+04	7.462655e-05	5.005025e-06	5.005025e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303014_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303014_]
+ScaledBy=3.04178951997393287e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.391482e-01	1.029701e-02	1.029701e-02
+1.500000e+01	2.500000e+01	2.431338e-01	1.017543e-02	1.017543e-02
+2.500000e+01	4.000000e+01	1.157241e-01	5.550550e-03	5.550550e-03
+4.000000e+01	8.000000e+01	4.080737e-02	2.078402e-03	2.078402e-03
+8.000000e+01	1.300000e+04	7.516220e-05	5.035471e-06	5.035471e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303013_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303013_]
+ScaledBy=3.04178941998800708e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.387646e-01	1.027997e-02	1.027997e-02
+1.500000e+01	2.500000e+01	2.428249e-01	1.016014e-02	1.016014e-02
+2.500000e+01	4.000000e+01	1.155693e-01	5.541474e-03	5.541474e-03
+4.000000e+01	8.000000e+01	4.075890e-02	2.075016e-03	2.075016e-03
+8.000000e+01	1.300000e+04	7.502472e-05	5.026626e-06	5.026626e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303012_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303012_]
+ScaledBy=3.04178923181211511e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.402407e-01	1.033041e-02	1.033041e-02
+1.500000e+01	2.500000e+01	2.442532e-01	1.021136e-02	1.021136e-02
+2.500000e+01	4.000000e+01	1.161848e-01	5.565829e-03	5.565829e-03
+4.000000e+01	8.000000e+01	4.093615e-02	2.082667e-03	2.082667e-03
+8.000000e+01	1.300000e+04	7.518513e-05	5.034903e-06	5.034903e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303011_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303011_]
+ScaledBy=3.04178925953335838e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.397635e-01	1.031889e-02	1.031889e-02
+1.500000e+01	2.500000e+01	2.439732e-01	1.019940e-02	1.019940e-02
+2.500000e+01	4.000000e+01	1.160881e-01	5.559988e-03	5.559988e-03
+4.000000e+01	8.000000e+01	4.089353e-02	2.080762e-03	2.080762e-03
+8.000000e+01	1.300000e+04	7.510126e-05	5.029172e-06	5.029172e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303010_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303010_]
+ScaledBy=3.04178980995189118e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.369545e-01	1.021717e-02	1.021717e-02
+1.500000e+01	2.500000e+01	2.407443e-01	1.008953e-02	1.008953e-02
+2.500000e+01	4.000000e+01	1.147186e-01	5.509994e-03	5.509994e-03
+4.000000e+01	8.000000e+01	4.050855e-02	2.065906e-03	2.065906e-03
+8.000000e+01	1.300000e+04	7.485012e-05	5.020052e-06	5.020052e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303009_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303009_]
+ScaledBy=3.04178972934457826e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.371318e-01	1.021159e-02	1.021159e-02
+1.500000e+01	2.500000e+01	2.409643e-01	1.009064e-02	1.009064e-02
+2.500000e+01	4.000000e+01	1.148379e-01	5.507132e-03	5.507132e-03
+4.000000e+01	8.000000e+01	4.049225e-02	2.064049e-03	2.064049e-03
+8.000000e+01	1.300000e+04	7.466207e-05	5.007602e-06	5.007602e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303008_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303008_]
+ScaledBy=3.04178967880512456e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.371053e-01	1.021839e-02	1.021839e-02
+1.500000e+01	2.500000e+01	2.407773e-01	1.008860e-02	1.008860e-02
+2.500000e+01	4.000000e+01	1.147456e-01	5.508161e-03	5.508161e-03
+4.000000e+01	8.000000e+01	4.050278e-02	2.064834e-03	2.064834e-03
+8.000000e+01	1.300000e+04	7.477401e-05	5.014383e-06	5.014383e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303007_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303007_]
+ScaledBy=3.04178943823838963e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.388001e-01	1.027709e-02	1.027709e-02
+1.500000e+01	2.500000e+01	2.427699e-01	1.015668e-02	1.015668e-02
+2.500000e+01	4.000000e+01	1.155729e-01	5.539369e-03	5.539369e-03
+4.000000e+01	8.000000e+01	4.073410e-02	2.074197e-03	2.074197e-03
+8.000000e+01	1.300000e+04	7.496573e-05	5.023648e-06	5.023648e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303006_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303006_]
+ScaledBy=3.04178963328277131e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.373120e-01	1.023221e-02	1.023221e-02
+1.500000e+01	2.500000e+01	2.410704e-01	1.010388e-02	1.010388e-02
+2.500000e+01	4.000000e+01	1.148943e-01	5.517457e-03	5.517457e-03
+4.000000e+01	8.000000e+01	4.057148e-02	2.068570e-03	2.068570e-03
+8.000000e+01	1.300000e+04	7.492232e-05	5.024034e-06	5.024034e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303005_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303005_]
+ScaledBy=3.04178942543897228e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.389194e-01	1.028189e-02	1.028189e-02
+1.500000e+01	2.500000e+01	2.429611e-01	1.016165e-02	1.016165e-02
+2.500000e+01	4.000000e+01	1.156221e-01	5.541329e-03	5.541329e-03
+4.000000e+01	8.000000e+01	4.075332e-02	2.074793e-03	2.074793e-03
+8.000000e+01	1.300000e+04	7.496859e-05	5.023627e-06	5.023627e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303004_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303004_]
+ScaledBy=3.04178949434275600e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.388615e-01	1.027907e-02	1.027907e-02
+1.500000e+01	2.500000e+01	2.430418e-01	1.016141e-02	1.016141e-02
+2.500000e+01	4.000000e+01	1.156799e-01	5.539727e-03	5.539727e-03
+4.000000e+01	8.000000e+01	4.074475e-02	2.073869e-03	2.073869e-03
+8.000000e+01	1.300000e+04	7.491399e-05	5.018609e-06	5.018609e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303003_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303003_]
+ScaledBy=3.04178939831012667e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.387848e-01	1.028201e-02	1.028201e-02
+1.500000e+01	2.500000e+01	2.428650e-01	1.016044e-02	1.016044e-02
+2.500000e+01	4.000000e+01	1.155759e-01	5.541615e-03	5.541615e-03
+4.000000e+01	8.000000e+01	4.075775e-02	2.075276e-03	2.075276e-03
+8.000000e+01	1.300000e+04	7.500790e-05	5.025714e-06	5.025714e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303002_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303002_]
+ScaledBy=3.04178932790772922e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.388347e-01	1.027557e-02	1.027557e-02
+1.500000e+01	2.500000e+01	2.426563e-01	1.015314e-02	1.015314e-02
+2.500000e+01	4.000000e+01	1.154719e-01	5.537822e-03	5.537822e-03
+4.000000e+01	8.000000e+01	4.072072e-02	2.073439e-03	2.073439e-03
+8.000000e+01	1.300000e+04	7.494411e-05	5.022644e-06	5.022644e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303001_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303001_]
+ScaledBy=3.04178954942437062e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.382007e-01	1.025432e-02	1.025432e-02
+1.500000e+01	2.500000e+01	2.422593e-01	1.013517e-02	1.013517e-02
+2.500000e+01	4.000000e+01	1.153516e-01	5.528202e-03	5.528202e-03
+4.000000e+01	8.000000e+01	4.065602e-02	2.070491e-03	2.070491e-03
+8.000000e+01	1.300000e+04	7.483132e-05	5.014975e-06	5.014975e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303000_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF303000_]
+ScaledBy=3.04178947865430850e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385685e-01	1.026794e-02	1.026794e-02
+1.500000e+01	2.500000e+01	2.425320e-01	1.014728e-02	1.014728e-02
+2.500000e+01	4.000000e+01	1.154479e-01	5.534688e-03	5.534688e-03
+4.000000e+01	8.000000e+01	4.070148e-02	2.072707e-03	2.072707e-03
+8.000000e+01	1.300000e+04	7.492212e-05	5.021061e-06	5.021061e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF27400_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF27400_]
+ScaledBy=3.04178895576436925e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.356916e-01	1.042233e-02	1.042233e-02
+1.500000e+01	2.500000e+01	2.367065e-01	9.884299e-03	9.884299e-03
+2.500000e+01	4.000000e+01	1.126817e-01	5.381657e-03	5.381657e-03
+4.000000e+01	8.000000e+01	3.959470e-02	2.014103e-03	2.014103e-03
+8.000000e+01	1.300000e+04	7.211582e-05	4.863682e-06	4.863682e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF27100_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF27100_]
+ScaledBy=3.04178856426649564e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.377842e-01	1.019976e-02	1.019976e-02
+1.500000e+01	2.500000e+01	2.406546e-01	1.000071e-02	1.000071e-02
+2.500000e+01	4.000000e+01	1.141030e-01	5.426271e-03	5.426271e-03
+4.000000e+01	8.000000e+01	3.997680e-02	2.024578e-03	2.024578e-03
+8.000000e+01	1.300000e+04	7.222494e-05	4.860878e-06	4.860878e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF266000_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF266000_]
+ScaledBy=3.04179028741458123e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.451016e-01	1.060839e-02	1.060839e-02
+1.500000e+01	2.500000e+01	2.484819e-01	1.045484e-02	1.045484e-02
+2.500000e+01	4.000000e+01	1.184443e-01	5.703897e-03	5.703897e-03
+4.000000e+01	8.000000e+01	4.178625e-02	2.134931e-03	2.134931e-03
+8.000000e+01	1.300000e+04	7.703434e-05	5.172096e-06	5.172096e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF265000_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF265000_]
+ScaledBy=3.04178875765925665e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.316167e-01	9.927166e-03	9.927166e-03
+1.500000e+01	2.500000e+01	2.359255e-01	9.817276e-03	9.817276e-03
+2.500000e+01	4.000000e+01	1.122357e-01	5.354507e-03	5.354507e-03
+4.000000e+01	8.000000e+01	3.952042e-02	2.006455e-03	2.006455e-03
+8.000000e+01	1.300000e+04	7.269005e-05	4.860019e-06	4.860019e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF25200_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF25200_]
+ScaledBy=3.04178844101042015e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.398320e-01	1.024340e-02	1.024340e-02
+1.500000e+01	2.500000e+01	2.436329e-01	1.011876e-02	1.011876e-02
+2.500000e+01	4.000000e+01	1.153213e-01	5.488620e-03	5.488620e-03
+4.000000e+01	8.000000e+01	4.044260e-02	2.046839e-03	2.046839e-03
+8.000000e+01	1.300000e+04	7.283797e-05	4.898942e-06	4.898942e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF14400_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF14400_]
+ScaledBy=3.04178872045756396e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.339946e-01	1.001113e-02	1.001113e-02
+1.500000e+01	2.500000e+01	2.381314e-01	9.888193e-03	9.888193e-03
+2.500000e+01	4.000000e+01	1.128326e-01	5.370685e-03	5.370685e-03
+4.000000e+01	8.000000e+01	3.946435e-02	2.000689e-03	2.000689e-03
+8.000000e+01	1.300000e+04	7.152193e-05	4.804021e-06	4.804021e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF14300_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF14300_]
+ScaledBy=3.04178978845268859e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.317262e-01	1.029743e-02	1.029743e-02
+1.500000e+01	2.500000e+01	2.334711e-01	9.753819e-03	9.753819e-03
+2.500000e+01	4.000000e+01	1.108955e-01	5.318194e-03	5.318194e-03
+4.000000e+01	8.000000e+01	3.895443e-02	1.987653e-03	1.987653e-03
+8.000000e+01	1.300000e+04	7.175435e-05	4.828767e-06	4.828767e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF14200_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF14200_]
+ScaledBy=3.04178948088906428e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.312549e-01	1.003163e-02	1.003163e-02
+1.500000e+01	2.500000e+01	2.339438e-01	9.794924e-03	9.794924e-03
+2.500000e+01	4.000000e+01	1.113361e-01	5.343692e-03	5.343692e-03
+4.000000e+01	8.000000e+01	3.916728e-02	2.000265e-03	2.000265e-03
+8.000000e+01	1.300000e+04	7.189105e-05	4.847245e-06	4.847245e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF14100_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF14100_]
+ScaledBy=3.04178960231536342e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.304418e-01	1.028285e-02	1.028285e-02
+1.500000e+01	2.500000e+01	2.315405e-01	9.660366e-03	9.660366e-03
+2.500000e+01	4.000000e+01	1.099819e-01	5.258686e-03	5.258686e-03
+4.000000e+01	8.000000e+01	3.853028e-02	1.964096e-03	1.964096e-03
+8.000000e+01	1.300000e+04	7.047162e-05	4.755989e-06	4.755989e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF14000_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF14000_]
+ScaledBy=3.04178944936054317e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.326235e-01	1.011129e-02	1.011129e-02
+1.500000e+01	2.500000e+01	2.357321e-01	9.860737e-03	9.860737e-03
+2.500000e+01	4.000000e+01	1.121815e-01	5.380896e-03	5.380896e-03
+4.000000e+01	8.000000e+01	3.945337e-02	2.013488e-03	2.013488e-03
+8.000000e+01	1.300000e+04	7.264461e-05	4.882572e-06	4.882572e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF13100_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF10_PDF13100_]
+ScaledBy=3.04178888572972971e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.349641e-01	1.005413e-02	1.005413e-02
+1.500000e+01	2.500000e+01	2.391660e-01	9.948902e-03	9.948902e-03
+2.500000e+01	4.000000e+01	1.133438e-01	5.405007e-03	5.405007e-03
+4.000000e+01	8.000000e+01	3.971890e-02	2.015488e-03	2.015488e-03
+8.000000e+01	1.300000e+04	7.201217e-05	4.850815e-06	4.850815e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF05_PDF303000_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR10_MUF05_PDF303000_]
+ScaledBy=3.04179245941477074e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.318938e-01	1.049900e-02	1.049900e-02
+1.500000e+01	2.500000e+01	2.366219e-01	1.039705e-02	1.039705e-02
+2.500000e+01	4.000000e+01	1.145152e-01	5.772830e-03	5.772830e-03
+4.000000e+01	8.000000e+01	4.060015e-02	2.204571e-03	2.204571e-03
+8.000000e+01	1.300000e+04	7.870898e-05	5.645695e-06	5.645695e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR05_MUF20_PDF303000_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR05_MUF20_PDF303000_]
+ScaledBy=3.04179348240972295e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	3.173665e-01	1.685645e-02	1.685645e-02
+1.500000e+01	2.500000e+01	3.191255e-01	1.663291e-02	1.663291e-02
+2.500000e+01	4.000000e+01	1.582026e-01	8.750589e-03	8.750589e-03
+4.000000e+01	8.000000e+01	5.639205e-02	3.175829e-03	3.175829e-03
+8.000000e+01	1.300000e+04	9.932926e-05	7.473679e-06	7.473679e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR05_MUF10_PDF303000_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR05_MUF10_PDF303000_]
+ScaledBy=3.04179515208230760e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	3.088263e-01	1.672321e-02	1.672321e-02
+1.500000e+01	2.500000e+01	3.133039e-01	1.639094e-02	1.639094e-02
+2.500000e+01	4.000000e+01	1.578415e-01	8.805604e-03	8.805604e-03
+4.000000e+01	8.000000e+01	5.586777e-02	3.255992e-03	3.255992e-03
+8.000000e+01	1.300000e+04	1.032207e-04	7.825012e-06	7.825012e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR05_MUF05_PDF303000_]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[_MUR05_MUF05_PDF303000_]
+ScaledBy=3.04179818581112220e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	3.010174e-01	1.724001e-02	1.724001e-02
+1.500000e+01	2.500000e+01	3.069433e-01	1.711764e-02	1.711764e-02
+2.500000e+01	4.000000e+01	1.567223e-01	9.227941e-03	9.227941e-03
+4.000000e+01	8.000000e+01	5.544615e-02	3.482731e-03	3.482731e-03
+8.000000e+01	1.300000e+04	1.081148e-04	8.773721e-06	8.773721e-06
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[AUX_bare_not_for_analyses]
+ErrorBars=1
+LineColor=blue!30
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01[AUX_bare_not_for_analyses]
+ScaledBy=3.04178947865430893e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	-2.385685e+00	1.026794e-01	1.026794e-01
+1.500000e+01	2.500000e+01	-2.425320e+00	1.014728e-01	1.014728e-01
+2.500000e+01	4.000000e+01	-1.154479e+00	5.534688e-02	5.534688e-02
+4.000000e+01	8.000000e+01	-4.070147e-01	2.072707e-02	2.072707e-02
+8.000000e+01	1.300000e+04	-7.492212e-04	5.021061e-05	5.021061e-05
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01
+ErrorBars=1
+LineColor=blue
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet/r23.yoda.gz/ATLAS_2022_I2023464/d35-x01-y01
+ScaledBy=3.04178947865430850e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+00	1.500000e+01	2.385685e-01	1.026794e-02	1.026794e-02
+1.500000e+01	2.500000e+01	2.425320e-01	1.014728e-02	1.014728e-02
+2.500000e+01	4.000000e+01	1.154479e-01	5.534688e-03	5.534688e-03
+4.000000e+01	8.000000e+01	4.070148e-02	2.072707e-03	2.072707e-03
+8.000000e+01	1.300000e+04	7.492212e-05	5.021061e-06	5.021061e-06
+# END HISTO1D
+
