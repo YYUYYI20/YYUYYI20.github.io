@@ -1,13 +1,13 @@
 # BEGIN PLOT
-LegendOnly=/ATLAS_2020_I1788444/d01-x01-y01 //ustcfs2/yuyi/private/ZCharm/ZCharm/Vjets_CKKW/Zb.yoda.gz/ATLAS_2020_I1788444:LMODE=MU/d01-x01-y01
-DrawOnly=/ATLAS_2020_I1788444/d01-x01-y01 //ustcfs2/yuyi/private/ZCharm/ZCharm/Vjets_CKKW/Zb.yoda.gz/ATLAS_2020_I1788444:LMODE=MU/d01-x01-y01
-Title=$ \geq 1$  and $ \geq 2$ btag events
-RatioPlotReference=/ATLAS_2020_I1788444/d01-x01-y01
-RatioPlot=1
-LogY=1
-XLabel=$N_{\mathrm{bjets}}$
-YLabel=$d\sigma/dN_{\mathrm{bjets}}$
 Legend=1
+LogY=1
+Title=$ \ge 1$  and $ \ge 2$ btag events
+XLabel=N_{\textrm{bjets}}$
+YLabel=$d\sigma/dN_{\textrm{bjets}}$
+DrawOnly=/ATLAS_2020_I1788444/d01-x01-y01 //ustcfs2/yuyi/private/FT_MCPROD/Vjets_CKKW/Rivet/Zb.yoda.gz/ATLAS_2020_I1788444:LMODE=MU/d01-x01-y01
+LegendOnly=/ATLAS_2020_I1788444/d01-x01-y01 //ustcfs2/yuyi/private/FT_MCPROD/Vjets_CKKW/Rivet/Zb.yoda.gz/ATLAS_2020_I1788444:LMODE=MU/d01-x01-y01
+RatioPlot=1
+RatioPlotReference=/ATLAS_2020_I1788444/d01-x01-y01
 # END PLOT
 
 # BEGIN HISTO1D /ATLAS_2020_I1788444/d01-x01-y01
@@ -23,15 +23,15 @@ Title=Data
 # END HISTO1D
 
 
-# BEGIN HISTO1D //ustcfs2/yuyi/private/ZCharm/ZCharm/Vjets_CKKW/Zb.yoda.gz/ATLAS_2020_I1788444:LMODE=MU/d01-x01-y01
+# BEGIN HISTO1D //ustcfs2/yuyi/private/FT_MCPROD/Vjets_CKKW/Rivet/Zb.yoda.gz/ATLAS_2020_I1788444:LMODE=MU/d01-x01-y01
 ErrorBars=1
 LineColor=red
 LineStyle=solid
-Path=//ustcfs2/yuyi/private/ZCharm/ZCharm/Vjets_CKKW/Zb.yoda.gz/ATLAS_2020_I1788444:LMODE=MU/d01-x01-y01
-ScaledBy=2.61025669652257312e-07
+Path=//ustcfs2/yuyi/private/FT_MCPROD/Vjets_CKKW/Rivet/Zb.yoda.gz/ATLAS_2020_I1788444:LMODE=MU/d01-x01-y01
+ScaledBy=1.08705848268743722e-06
 Title=CKKW
 # xlow	 xhigh	 val	 errminus	 errplus
-5.000000e-01	1.500000e+00	2.990450e+00	3.629282e-02	3.629282e-02
-1.500000e+00	2.500000e+00	3.550409e-01	8.987561e-03	8.987561e-03
+5.000000e-01	1.500000e+00	1.245387e+01	1.511414e-01	1.511414e-01
+1.500000e+00	2.500000e+00	1.478608e+00	3.742880e-02	3.742880e-02
 # END HISTO1D
 
