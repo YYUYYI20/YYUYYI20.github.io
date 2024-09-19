@@ -2,40 +2,53 @@
 <head>
 <title>Plots from Rivet analyses</title>
 <style>
-      html { font-family: sans-serif; }
-      img { border: 0; }
-      a { text-decoration: none; font-weight: bold; }
-    </style>
-            <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-          tex2jax: {inlineMath: [["$","$"]]}
-        });
-        </script>
-        <script type="text/javascript" async
-          src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-        </script>
-        
+          html { font-family: arial black, sans-serif; color: #333333; }
+          img { border: 0; }
+          a { text-decoration: none; font-weight: bold; }
+          footer { clear:both; margin-top:2em; margin-bottom:2em; padding-top:2em; color: #999999; }
 
-        <script type="text/javascript">
-            function filterPlots(ana, patt) {
-                var regex = new RegExp(patt);
-                var sec = document.getElementById('ana_'+ana);
-                var plots = sec.getElementsByClassName('plot');
-                var i; for (i = 0; i < plots.length; ++i) {
-                    // var viz = (regex.test(plots[i].id)) ? 'visible' : 'hidden';
-                    // plots[i].style.visibility = viz;
-                    var dis = (regex.test(plots[i].id)) ? 'block' : 'none';
-                    plots[i].style.display = dis;
-                }
-                return false;
-           }
-        </script>
-        </head>
-<body><h2>Plots from Rivet analyses</h2>
+          .anasumm, .indexanasumm { margin-bottom: 2.5em; line-height: 1.4; font-size: 120%; font-family: georgia, palatino, serif; }
+          .back, .back a { font-weight: bold; color: gray; font-variant: small-caps; text-transform: uppercase; margin-bottom: 2em; }
 
-<footer style="clear:both; margin-top:3em; padding-top:3em">
-<p>Generated at Friday, 23. August 2024 09:45PM</p>
-<p>Created with command: <pre>rivet-mkhtml --errs -o Zjets_plots Zjets.yoda.gz:Title=CKKW</pre></p>
+          .filterform { position: fixed; top: 1em; right: 1em; background: white; opacity: 0.2; }
+          .filterform { padding: 1em; padding-bottom: 0.1em; border: 2px solid gray; border-radius: 0.7em; }
+          .filterform:hover, .filterform:focus-within { opacity: 1.0; -webkit-transition: opacity 1s; transition: opacity 1s; drop-shadow(gray 0.5em 0.5em 10px); }
+          .filterpatt { padding: 0.3em; font-size: 100%; border: 1px solid #85C1E9; border-radius: 0.1em; }
+          .filterbutton { padding: 0.3em; font-size: 100%; border: 2px solid #85C1E9; background:#D6EAF8; border-radius: 0.3em; }
+        </style>
+                    <script type="text/javascript">
+              window.MathJax = { tex: { inlineMath: [['$','$']] }, 
+                                 options: { menuOptions: { settings: { inTabOrder: false } } } };
+            </script>
+            <script type="text/javascript" id="MathJax-script" async
+                src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-chtml-full.min.js">
+            </script>
+            
+
+            <script type="text/javascript">
+                function filterPlots(ana, patt) {
+                    var regex = new RegExp(patt);
+                    var sec = document.getElementById('ana_'+ana);
+                    var plots = sec.getElementsByClassName('plot');
+                    var i; for (i = 0; i < plots.length; ++i) {
+                        // var viz = (regex.test(plots[i].id)) ? 'visible' : 'hidden';
+                        // plots[i].style.visibility = viz;
+                        var dis = (regex.test(plots[i].id)) ? 'block' : 'none';
+                        plots[i].style.display = dis;
+                    }
+                    return false;
+               }
+            </script>
+            </head>
+<body><h1>Plots from Rivet analyses</h1>
+
+
+<h2><a href="ATLAS_2017_I1514251/index.html" style="text-decoration:none;">Z plus jets at 13 TeV (ATLAS_2017_I1514251)</a></h2>
+<p><a href="https://inspirehep.net/literature/1514251">Inspire</a> &#124; <a href="http://hepdata.net/record/ins1514251">HepData</a> &#124; <a href="https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/STDM-2016-01">ATLAS-STDM-2016-01</a> &#124; <a href="https://arxiv.org/abs/1702.05725">arXiv:1702.05725</a> &#124; Eur. Phys. J. C77 (2017) 361</p>
+<p class="indexanasumm">Measurements of the production cross section of a $Z$ boson in association with jets in proton-proton collisions at $\sqrt{s}=13$ TeV are presented, using data corresponding to an integrated luminosity of 3.16 fb${}^{-1}$ collected by the ATLAS experiment at the CERN Large Hadron Collider in 2015. Inclusive and differential cross sections are measured for events containing a $Z$ boson decaying to electrons or muons and produced in association with up to seven jets with $p_\text{T}&gt;30$ GeV and $|y|&lt;2.5$. Predictions from different Monte Carlo generators based on leading-order and next-to-leading-order matrix elements for up to two additional partons interfaced with parton shower and fixed-order predictions at next-to-leading order and next-to-next-to-leading order are compared with the measured cross sections. Good agreement within the uncertainties is observed for most of the modelled quantities, in particular with the generators which use next-to-leading-order matrix elements and the more recent next-to-next-to-leading-order fixed-order predictions.</p>
+<footer>
+<p id="timestamp">Generated at Thursday, 19. September 2024 11:14AM</p>
+<p id="command">Created with command: <pre>rivet-mkhtml -o Zjets_plots Zjets.yoda.gz:Title=CKKW</pre></p>
 </footer>
 
 </body>
