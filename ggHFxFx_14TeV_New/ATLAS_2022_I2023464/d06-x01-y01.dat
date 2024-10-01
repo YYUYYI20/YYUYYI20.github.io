@@ -1,0 +1,93 @@
+# BEGIN PLOT
+Legend=1
+LogY=1
+Title=1D differential xsection vs $p_{T}^{\gamma\gamma}$ ($p_{T}^{j1}<30$ GeV)
+XLabel=$p_{T}^{\gamma\gamma}$ [GeV]
+YLabel=$d\sigma/dp_{T}^{\gamma\gamma}$ [fb/GeV]
+XMin=1
+LogX=1
+DrawOnly=/ATLAS_2022_I2023464/d06-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/r21.yoda.gz/ATLAS_2022_I2023464/d06-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/r23.yoda.gz/ATLAS_2022_I2023464/d06-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/scale_pw.yoda.gz/ATLAS_2022_I2023464/d06-x01-y01
+LegendOnly=/ATLAS_2022_I2023464/d06-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/r21.yoda.gz/ATLAS_2022_I2023464/d06-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/r23.yoda.gz/ATLAS_2022_I2023464/d06-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/scale_pw.yoda.gz/ATLAS_2022_I2023464/d06-x01-y01
+RatioPlot=1
+RatioPlotReference=/ATLAS_2022_I2023464/d06-x01-y01
+# END PLOT
+
+# BEGIN HISTO1D /ATLAS_2022_I2023464/d06-x01-y01
+ConnectBins=0
+ErrorBars=1
+IsRef=1
+Path=/ATLAS_2022_I2023464/d06-x01-y01
+PolyMarker=*
+Title=Data
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	5.000000e+00	3.593200e-01	3.157343e-01	3.157343e-01
+5.000000e+00	1.000000e+01	9.506800e-01	4.369446e-01	4.369446e-01
+1.000000e+01	1.500000e+01	1.471300e+00	4.535446e-01	4.535446e-01
+1.500000e+01	2.000000e+01	1.433500e+00	4.664532e-01	4.664532e-01
+2.000000e+01	3.000000e+01	7.968800e-01	2.317587e-01	2.317587e-01
+3.000000e+01	4.000000e+01	6.796200e-01	1.899658e-01	1.899658e-01
+4.000000e+01	5.000000e+01	1.741100e-01	1.367415e-01	1.367415e-01
+5.000000e+01	1.000000e+02	3.753800e-02	2.648861e-02	2.648861e-02
+1.000000e+02	1.300000e+04	2.761000e-05	1.186695e-05	1.186695e-05
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/r21.yoda.gz/ATLAS_2022_I2023464/d06-x01-y01
+ErrorBars=1
+LineColor=red
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/r21.yoda.gz/ATLAS_2022_I2023464/d06-x01-y01
+ScaledBy=1.00008175702771592e-02
+Title=r21
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	5.000000e+00	3.641960e-01	2.136331e-02	2.136331e-02
+5.000000e+00	1.000000e+01	8.855940e-01	3.661056e-02	3.661056e-02
+1.000000e+01	1.500000e+01	1.182926e+00	4.488089e-02	4.488089e-02
+1.500000e+01	2.000000e+01	1.354354e+00	4.767440e-02	4.767440e-02
+2.000000e+01	3.000000e+01	1.130644e+00	3.019763e-02	3.019763e-02
+3.000000e+01	4.000000e+01	6.860686e-01	2.293112e-02	2.293112e-02
+4.000000e+01	5.000000e+01	3.257848e-01	1.638355e-02	1.638355e-02
+5.000000e+01	1.000000e+02	4.538224e-02	2.736504e-03	2.736504e-03
+1.000000e+02	1.300000e+04	-8.271171e-07	8.271169e-07	8.271169e-07
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/r23.yoda.gz/ATLAS_2022_I2023464/d06-x01-y01
+ErrorBars=1
+LineColor=blue
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/r23.yoda.gz/ATLAS_2022_I2023464/d06-x01-y01
+ScaledBy=3.07024839239755524e-03
+Title=r23
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	5.000000e+00	3.180842e-01	1.141119e-02	1.141119e-02
+5.000000e+00	1.000000e+01	5.811036e-01	1.641980e-02	1.641980e-02
+1.000000e+01	1.500000e+01	6.198644e-01	1.807673e-02	1.807673e-02
+1.500000e+01	2.000000e+01	5.601850e-01	1.865892e-02	1.865892e-02
+2.000000e+01	3.000000e+01	3.971439e-01	1.196776e-02	1.196776e-02
+3.000000e+01	4.000000e+01	2.145684e-01	9.260738e-03	9.260738e-03
+4.000000e+01	5.000000e+01	9.890143e-02	6.723911e-03	6.723911e-03
+5.000000e+01	1.000000e+02	1.581192e-02	1.187448e-03	1.187448e-03
+1.000000e+02	1.300000e+04	5.961725e-07	3.954561e-07	3.954561e-07
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/scale_pw.yoda.gz/ATLAS_2022_I2023464/d06-x01-y01
+ErrorBars=1
+LineColor=green
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/scale_pw.yoda.gz/ATLAS_2022_I2023464/d06-x01-y01
+ScaledBy=2.28242794195637878e-05
+Title=NNLO PW
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	5.000000e+00	2.759870e-01	6.594103e-03	6.594103e-03
+5.000000e+00	1.000000e+01	6.224034e-01	9.362265e-03	9.362265e-03
+1.000000e+01	1.500000e+01	6.636438e-01	9.665092e-03	9.665092e-03
+1.500000e+01	2.000000e+01	5.922188e-01	9.131195e-03	9.131195e-03
+2.000000e+01	3.000000e+01	4.440247e-01	5.590499e-03	5.590499e-03
+3.000000e+01	4.000000e+01	2.533255e-01	4.222103e-03	4.222103e-03
+4.000000e+01	5.000000e+01	1.185403e-01	2.889042e-03	2.889042e-03
+5.000000e+01	1.000000e+02	1.739394e-02	4.947533e-04	4.947533e-04
+1.000000e+02	1.300000e+04	4.363648e-07	1.542783e-07	1.542783e-07
+# END HISTO1D
+
