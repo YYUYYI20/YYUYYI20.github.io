@@ -6,8 +6,8 @@ XLabel=$p_{T}^{\gamma\gamma}$ [GeV]
 YLabel=$d\sigma/dp_{T}^{\gamma\gamma}$ [fb/GeV]
 XMin=1
 LogX=1
-DrawOnly=/ATLAS_2022_I2023464/d39-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/pw.yoda.gz/ATLAS_2022_I2023464/d39-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/r23.yoda.gz/ATLAS_2022_I2023464/d39-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/r23626.yoda.gz/ATLAS_2022_I2023464/d39-x01-y01
-LegendOnly=/ATLAS_2022_I2023464/d39-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/pw.yoda.gz/ATLAS_2022_I2023464/d39-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/r23.yoda.gz/ATLAS_2022_I2023464/d39-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/r23626.yoda.gz/ATLAS_2022_I2023464/d39-x01-y01
+DrawOnly=/ATLAS_2022_I2023464/d39-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_pw.yoda.gz/ATLAS_2022_I2023464/d39-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/r23.yoda.gz/ATLAS_2022_I2023464/d39-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/r23626.yoda.gz/ATLAS_2022_I2023464/d39-x01-y01
+LegendOnly=/ATLAS_2022_I2023464/d39-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_pw.yoda.gz/ATLAS_2022_I2023464/d39-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/r23.yoda.gz/ATLAS_2022_I2023464/d39-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/r23626.yoda.gz/ATLAS_2022_I2023464/d39-x01-y01
 RatioPlot=1
 RatioPlotReference=/ATLAS_2022_I2023464/d39-x01-y01
 # END PLOT
@@ -34,25 +34,25 @@ Title=Data
 # END HISTO1D
 
 
-# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/pw.yoda.gz/ATLAS_2022_I2023464/d39-x01-y01
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_pw.yoda.gz/ATLAS_2022_I2023464/d39-x01-y01
 ErrorBars=1
 LineColor=red
 LineStyle=solid
-Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/pw.yoda.gz/ATLAS_2022_I2023464/d39-x01-y01
-ScaledBy=1.00106482030751717e-02
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_pw.yoda.gz/ATLAS_2022_I2023464/d39-x01-y01
+ScaledBy=2.28242794195637878e-05
 Title=NNLO PhPy8
 # xlow	 xhigh	 val	 errminus	 errplus
-0.000000e+00	5.000000e+00	1.242565e+02	2.926198e+00	2.926198e+00
-5.000000e+00	1.000000e+01	2.817486e+02	4.171608e+00	4.171608e+00
-1.000000e+01	1.500000e+01	3.053914e+02	4.342074e+00	4.342074e+00
-1.500000e+01	2.000000e+01	2.798048e+02	4.156615e+00	4.156615e+00
-2.000000e+01	3.000000e+01	2.267508e+02	2.645720e+00	2.645720e+00
-3.000000e+01	4.000000e+01	1.595600e+02	2.219113e+00	2.219113e+00
-4.000000e+01	5.000000e+01	1.095702e+02	1.839501e+00	1.839501e+00
-5.000000e+01	6.000000e+01	6.927482e+01	1.463673e+00	1.463673e+00
-6.000000e+01	7.000000e+01	3.795943e+01	1.082348e+00	1.082348e+00
-7.000000e+01	1.000000e+02	1.298246e+01	3.654495e-01	3.654495e-01
-1.000000e+02	1.300000e+04	3.899532e-03	3.054349e-04	3.054349e-04
+0.000000e+00	5.000000e+00	2.833050e-01	6.671731e-03	6.671731e-03
+5.000000e+00	1.000000e+01	6.423870e-01	9.511267e-03	9.511267e-03
+1.000000e+01	1.500000e+01	6.962926e-01	9.899929e-03	9.899929e-03
+1.500000e+01	2.000000e+01	6.379550e-01	9.477084e-03	9.477084e-03
+2.000000e+01	3.000000e+01	5.169918e-01	6.032242e-03	6.032242e-03
+3.000000e+01	4.000000e+01	3.637969e-01	5.059577e-03	5.059577e-03
+4.000000e+01	5.000000e+01	2.498202e-01	4.194062e-03	4.194062e-03
+5.000000e+01	6.000000e+01	1.579466e-01	3.337175e-03	3.337175e-03
+6.000000e+01	7.000000e+01	8.654752e-02	2.467755e-03	2.467755e-03
+7.000000e+01	1.000000e+02	2.960002e-02	8.332251e-04	8.332251e-04
+1.000000e+02	1.300000e+04	8.890930e-06	6.963916e-07	6.963916e-07
 # END HISTO1D
 
 
