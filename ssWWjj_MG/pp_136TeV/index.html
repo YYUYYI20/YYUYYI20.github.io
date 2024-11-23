@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>Plots from Rivet analyses</title>
+<style>
+      html { font-family: sans-serif; }
+      img { border: 0; }
+      a { text-decoration: none; font-weight: bold; }
+    </style>
+            <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+          tex2jax: {inlineMath: [["$","$"]]}
+        });
+        </script>
+        <script type="text/javascript" async
+          src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+        
+
+        <script type="text/javascript">
+            function filterPlots(ana, patt) {
+                var regex = new RegExp(patt);
+                var sec = document.getElementById('ana_'+ana);
+                var plots = sec.getElementsByClassName('plot');
+                var i; for (i = 0; i < plots.length; ++i) {
+                    // var viz = (regex.test(plots[i].id)) ? 'visible' : 'hidden';
+                    // plots[i].style.visibility = viz;
+                    var dis = (regex.test(plots[i].id)) ? 'block' : 'none';
+                    plots[i].style.display = dis;
+                }
+                return false;
+           }
+        </script>
+        </head>
+<body><h2>Plots from Rivet analyses</h2>
+
+
+<h3><a href="ATLAS_2023_I2729396/index.html" style="text-decoration:none;">Electroweak same-sign WW production at 13 TeV (ATLAS_2023_I2729396)</a></h3>
+<p><a href="https://inspirehep.net/literature/2729396">Inspire</a> &#124; <a href="http://hepdata.net/record/ins2729396">HepData</a> &#124; <a href="https://arxiv.org/abs/2312.00420">arXiv:2312.00420</a> &#124; ATLAS-STDM-2018-32</p>
+<p style="font-size:smaller;">This paper presents the measurement of fiducial and differential cross sections for both the inclusive and electroweak production of a same-sign $W$-boson pair in association with two jets ($W^\pm W^\pm jj$) using $139$ fb$^{-1}$ of proton--proton collision data recorded at a centre-of-mass energy of $\sqrt{s}=13$ TeV by the ATLAS detector at the Large Hadron Collider. The analysis is performed by selecting two same-charge leptons, electron or muon, and at least two jets with large invariant mass and a large rapidity difference. The measured fiducial cross sections for electroweak and inclusive $W^\pm W^\pm jj$ production are $2.92 \pm 0.22\, \text{(stat.)} \pm 0.19\, \text{(syst.)}$ fb and $3.38 \pm 0.22\, \text{(stat.)} \pm 0.19\, \text{(syst.)}$ fb, respectively, in agreement with Standard Model predictions. The measurements are used to constrain anomalous quartic gauge couplings by extracting 95% confidence level intervals on dimension-8 operators. A search for doubly charged Higgs bosons $H^{\pm\pm}$ that are produced in vector-boson fusion processes and decay into a same-sign $W$ boson pair is performed. The largest deviation from the Standard Model occurs for an $H^{\pm\pm}$ mass near $450$ GeV, with a global significance of 2.5 standard deviations.</p>
+<footer style="clear:both; margin-top:3em; padding-top:3em">
+<p>Generated at Sunday, 24. November 2024 05:54AM</p>
+<p>Created with command: <pre>rivet-mkhtml --errs -o Yi_Presentation/pp_136TeV 136TeV.200003.yoda.gz:Title=inclusive 136TeV.200000m.yoda.gz:LL+TL+TT (pp) 136TeV.200000.yoda.gz:Title=LL 136TeV.200001.yoda.gz:Title=TL 136TeV.200002.yoda.gz:Title=TT</pre></p>
+</footer>
+
+</body>
+</html>
