@@ -1,0 +1,131 @@
+# BEGIN PLOT
+Legend=1
+LogY=1
+Title=1D differential xsection vs $p_{T}^{\gamma 1}/m_{\gamma\gamma}$
+XLabel=$p_{T}^{\gamma 1}/m_{\gamma\gamma}$
+YLabel=$d\sigma/dp_{T}^{\gamma 1}/m_{\gamma\gamma}$ [fb/GeV]
+DrawOnly=/ATLAS_2022_I2023464/d21-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_pw.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/even_fixps.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_even_pythia.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_mix_pythia.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_odd_pythia.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01
+LegendOnly=/ATLAS_2022_I2023464/d21-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_pw.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/even_fixps.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_even_pythia.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_mix_pythia.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01 //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_odd_pythia.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01
+RatioPlot=1
+RatioPlotReference=/ATLAS_2022_I2023464/d21-x01-y01
+# END PLOT
+
+# BEGIN HISTO1D /ATLAS_2022_I2023464/d21-x01-y01
+ConnectBins=0
+ErrorBars=1
+IsRef=1
+Path=/ATLAS_2022_I2023464/d21-x01-y01
+PolyMarker=*
+Title=Data
+# xlow	 xhigh	 val	 errminus	 errplus
+3.500000e-01	4.500000e-01	8.050200e+01	2.936955e+01	2.936955e+01
+4.500000e-01	5.000000e-01	2.985700e+02	5.225049e+01	5.225049e+01
+5.000000e-01	5.500000e-01	3.030100e+02	6.026940e+01	6.026940e+01
+5.500000e-01	6.000000e-01	2.130100e+02	4.591586e+01	4.591586e+01
+6.000000e-01	6.500000e-01	1.019800e+02	3.414768e+01	3.414768e+01
+6.500000e-01	7.500000e-01	6.140400e+01	1.760541e+01	1.760541e+01
+7.500000e-01	8.500000e-01	1.562300e+01	1.121872e+01	1.121872e+01
+8.500000e-01	9.500000e-01	2.669300e+01	8.229042e+00	8.229042e+00
+9.500000e-01	1.000000e+01	4.123200e-01	7.955136e-02	7.955136e-02
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_pw.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01
+ErrorBars=1
+LineColor=red
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_pw.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01
+ScaledBy=2.28242794195637878e-05
+Title=NNLO PhPy8
+# xlow	 xhigh	 val	 errminus	 errplus
+3.500000e-01	4.500000e-01	4.564808e+01	5.769104e-01	5.769104e-01
+4.500000e-01	5.000000e-01	1.056543e+02	1.219720e+00	1.219720e+00
+5.000000e-01	5.500000e-01	1.639182e+02	1.518900e+00	1.518900e+00
+5.500000e-01	6.000000e-01	9.997532e+01	1.186813e+00	1.186813e+00
+6.000000e-01	6.500000e-01	6.321910e+01	9.432635e-01	9.432635e-01
+6.500000e-01	7.500000e-01	3.600932e+01	5.038578e-01	5.038578e-01
+7.500000e-01	8.500000e-01	1.936274e+01	3.692093e-01	3.692093e-01
+8.500000e-01	9.500000e-01	1.147019e+01	2.852145e-01	2.852145e-01
+9.500000e-01	1.000000e+01	2.299848e-01	4.228633e-03	4.228633e-03
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/even_fixps.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01
+ErrorBars=1
+LineColor=blue
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/even_fixps.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01
+ScaledBy=3.12706459889695518e-03
+Title=EVEN (Madspin)
+# xlow	 xhigh	 val	 errminus	 errplus
+3.500000e-01	4.500000e-01	3.957279e+01	1.110908e+00	1.110908e+00
+4.500000e-01	5.000000e-01	8.962646e+01	2.375896e+00	2.375896e+00
+5.000000e-01	5.500000e-01	1.374792e+02	3.023296e+00	3.023296e+00
+5.500000e-01	6.000000e-01	8.211018e+01	2.577042e+00	2.577042e+00
+6.000000e-01	6.500000e-01	4.701422e+01	2.079856e+00	2.079856e+00
+6.500000e-01	7.500000e-01	2.802886e+01	1.135360e+00	1.135360e+00
+7.500000e-01	8.500000e-01	1.560153e+01	8.233613e-01	8.233613e-01
+8.500000e-01	9.500000e-01	9.402843e+00	6.519567e-01	6.519567e-01
+9.500000e-01	1.000000e+01	2.258310e-01	1.161294e-02	1.161294e-02
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_even_pythia.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01
+ErrorBars=1
+LineColor=green
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_even_pythia.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01
+ScaledBy=7.23490853448394614e-06
+Title=EVEN
+# xlow	 xhigh	 val	 errminus	 errplus
+3.500000e-01	4.500000e-01	5.541609e+01	1.628957e+00	1.628957e+00
+4.500000e-01	5.000000e-01	1.336309e+02	3.565920e+00	3.565920e+00
+5.000000e-01	5.500000e-01	1.983758e+02	4.560018e+00	4.560018e+00
+5.500000e-01	6.000000e-01	1.203613e+02	3.776032e+00	3.776032e+00
+6.000000e-01	6.500000e-01	7.324988e+01	3.083438e+00	3.083438e+00
+6.500000e-01	7.500000e-01	4.074385e+01	1.677678e+00	1.677678e+00
+7.500000e-01	8.500000e-01	2.090627e+01	1.261628e+00	1.261628e+00
+8.500000e-01	9.500000e-01	1.240127e+01	9.448608e-01	9.448608e-01
+9.500000e-01	1.000000e+01	3.439296e-01	1.703735e-02	1.703735e-02
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_mix_pythia.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01
+ErrorBars=1
+LineColor=orange
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_mix_pythia.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01
+ScaledBy=7.25327500126240480e-06
+Title=MIX
+# xlow	 xhigh	 val	 errminus	 errplus
+3.500000e-01	4.500000e-01	9.033954e+01	2.619483e+00	2.619483e+00
+4.500000e-01	5.000000e-01	2.101540e+02	5.734542e+00	5.734542e+00
+5.000000e-01	5.500000e-01	3.339058e+02	7.288284e+00	7.288284e+00
+5.500000e-01	6.000000e-01	1.869642e+02	6.174956e+00	6.174956e+00
+6.000000e-01	6.500000e-01	1.155161e+02	5.029567e+00	5.029567e+00
+6.500000e-01	7.500000e-01	6.364583e+01	2.712711e+00	2.712711e+00
+7.500000e-01	8.500000e-01	3.612136e+01	2.026663e+00	2.026663e+00
+8.500000e-01	9.500000e-01	1.997511e+01	1.539719e+00	1.539719e+00
+9.500000e-01	1.000000e+01	4.673824e-01	2.811821e-02	2.811821e-02
+# END HISTO1D
+
+
+# BEGIN HISTO1D //ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_odd_pythia.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01
+ErrorBars=1
+LineColor=lilac
+LineStyle=solid
+Path=//ustcfs2/yuyi/private/ttHyy/Generation/ggHyy/Rivet_new/br_odd_pythia.yoda.gz/ATLAS_2022_I2023464/d21-x01-y01
+ScaledBy=7.21828562408524829e-06
+Title=ODD
+# xlow	 xhigh	 val	 errminus	 errplus
+3.500000e-01	4.500000e-01	1.240410e+02	3.601436e+00	3.601436e+00
+4.500000e-01	5.000000e-01	2.943718e+02	7.916009e+00	7.916009e+00
+5.000000e-01	5.500000e-01	4.497736e+02	1.010576e+01	1.010576e+01
+5.500000e-01	6.000000e-01	2.663174e+02	8.657420e+00	8.657420e+00
+6.000000e-01	6.500000e-01	1.653211e+02	7.030778e+00	7.030778e+00
+6.500000e-01	7.500000e-01	9.343147e+01	3.824168e+00	3.824168e+00
+7.500000e-01	8.500000e-01	4.704138e+01	2.798732e+00	2.798732e+00
+8.500000e-01	9.500000e-01	3.070965e+01	2.157677e+00	2.157677e+00
+9.500000e-01	1.000000e+01	7.589328e-01	3.879278e-02	3.879278e-02
+# END HISTO1D
+
