@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>Plots from Rivet analyses</title>
+<style>
+      html { font-family: arial black, sans-serif; color: #333333; }
+      img { border: 0; }
+      a { text-decoration: none; font-weight: bold; }
+      footer { clear:both; margin-top:2em; margin-bottom:2em; padding-top:2em; color: #999999; }
+
+      .anasumm, .indexanasumm { margin-bottom: 2.5em; line-height: 1.4; font-size: 120%; font-family: georgia, palatino, serif; }
+      .back, .back a { font-weight: bold; color: gray; font-variant: small-caps; text-transform: uppercase; margin-bottom: 2em; }
+
+      .filterform { position: fixed; top: 1em; right: 1em; background: white; opacity: 0.2; }
+      .filterform { padding: 1em; padding-bottom: 0.1em; border: 2px solid gray; border-radius: 0.7em; }
+      .filterform:hover, .filterform:focus-within { opacity: 1.0; -webkit-transition: opacity 1s; transition: opacity 1s; drop-shadow(gray 0.5em 0.5em 10px); }
+      .filterpatt { padding: 0.3em; font-size: 100%; border: 1px solid #85C1E9; border-radius: 0.1em; }
+      .filterbutton { padding: 0.3em; font-size: 100%; border: 2px solid #85C1E9; background:#D6EAF8; border-radius: 0.3em; }
+    </style>
+            <script type="text/javascript">
+           window.MathJax = { tex: { inlineMath: [['$','$']] }, 
+                              options: { menuOptions: { settings: { inTabOrder: false } } } };
+        </script>
+        <script type="text/javascript" id="MathJax-script" async
+          src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-chtml-full.min.js">
+        </script>
+        
+
+        <script type="text/javascript">
+            function filterPlots(ana, patt) {
+                var regex = new RegExp(patt);
+                var sec = document.getElementById('ana_'+ana);
+                var plots = sec.getElementsByClassName('plot');
+                var i; for (i = 0; i < plots.length; ++i) {
+                    // var viz = (regex.test(plots[i].id)) ? 'visible' : 'hidden';
+                    // plots[i].style.visibility = viz;
+                    var dis = (regex.test(plots[i].id)) ? 'block' : 'none';
+                    plots[i].style.display = dis;
+                }
+                return false;
+           }
+        </script>
+        </head>
+<body><h1>Plots from Rivet analyses</h1>
+
+
+<h2><a href="ATLAS_2023_I2729396/index.html" style="text-decoration:none;">Electroweak same-sign WW production at 13 TeV (ATLAS_2023_I2729396)</a></h2>
+<p><a href="https://inspirehep.net/literature/2729396">Inspire</a> &#124; <a href="http://hepdata.net/record/ins2729396">HepData</a> &#124; <a href="https://arxiv.org/abs/2312.00420">arXiv:2312.00420</a> &#124; <a href="https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/STDM-2018-32">ATLAS-STDM-2018-32</a></p>
+<p class="indexanasumm">This paper presents the measurement of fiducial and differential cross sections for both the inclusive and electroweak production of a same-sign $W$-boson pair in association with two jets ($W^\pm W^\pm jj$) using $139$ fb$^{-1}$ of proton--proton collision data recorded at a centre-of-mass energy of $\sqrt{s}=13$ TeV by the ATLAS detector at the Large Hadron Collider. The analysis is performed by selecting two same-charge leptons, electron or muon, and at least two jets with large invariant mass and a large rapidity difference. The measured fiducial cross sections for electroweak and inclusive $W^\pm W^\pm jj$ production are $2.92 \pm 0.22\, \text{(stat.)} \pm 0.19\, \text{(syst.)}$ fb and $3.38 \pm 0.22\, \text{(stat.)} \pm 0.19\, \text{(syst.)}$ fb, respectively, in agreement with Standard Model predictions. The measurements are used to constrain anomalous quartic gauge couplings by extracting 95% confidence level intervals on dimension-8 operators. A search for doubly charged Higgs bosons $H^{\pm\pm}$ that are produced in vector-boson fusion processes and decay into a same-sign $W$ boson pair is performed. The largest deviation from the Standard Model occurs for an $H^{\pm\pm}$ mass near $450$ GeV, with a global significance of 2.5 standard deviations.</p>
+<footer>
+<p id="timestamp">Generated at Wednesday, 26. February 2025 09:33PM</p>
+<p id="command">Created with command: <pre>rivet-mkhtml --errs -o 13TeV_Run2_inclusive Run2H7.200000m.yoda.gz:Title=MGH7 QCD+EWK+INT (MC16):LineColor=red:LineStyle=solid Run2.200003.yoda.gz:Title=inclusive (MC16):LineColor=blue:LineStyle=solid Run2.100000m.yoda.gz:Title=LL+TL+TT (WW, MC16):LineColor=green:LineStyle=solid Run2.200000m.yoda.gz:Title=LL+TL+TT (pp, MC16):LineColor=violet:LineStyle=solid 13TeV.200003.yoda.gz:Title=inclusive (MC20):LineColor=blue:LineStyle=dashed 13TeV.100000m.yoda.gz:Title=LL+TL+TT (WW, MC20):LineColor=green:LineStyle=dashed 13TeV.200000m.yoda.gz:Title=LL+TL+TT (pp, MC20):LineColor=violet:LineStyle=dashed</pre></p>
+</footer>
+
+</body>
+</html>
