@@ -97,7 +97,7 @@ Title=TL (MC20)
 
 # BEGIN HISTO1D //ustcfs2/yuyi/private/ssWW/Rivet_New_Plus/13TeV.200002.yoda.gz/ATLAS_2023_I2729396/d02-x01-y01
 ErrorBars=1
-LineColor=violet
+LineColor=purple
 LineStyle=solid
 Path=//ustcfs2/yuyi/private/ssWW/Rivet_New_Plus/13TeV.200002.yoda.gz/ATLAS_2023_I2729396/d02-x01-y01
 ScaledBy=1.00000727003640377e-01
@@ -132,7 +132,7 @@ Title=inclusive (MC23)
 # BEGIN HISTO1D //ustcfs2/yuyi/private/ssWW/Rivet_New_Plus/136TeV.200000m.yoda.gz/ATLAS_2023_I2729396/d02-x01-y01
 ErrorBars=1
 LineColor=blue
-LineStyle=dashed
+LineStyle=solid
 Path=//ustcfs2/yuyi/private/ssWW/Rivet_New_Plus/136TeV.200000m.yoda.gz/ATLAS_2023_I2729396/d02-x01-y01
 ScaledBy=1.00149780237283395e-01
 Title=LL+TL+TT (MC23)
@@ -149,7 +149,7 @@ Title=LL+TL+TT (MC23)
 # BEGIN HISTO1D //ustcfs2/yuyi/private/ssWW/Rivet_New_Plus/136TeV.200000.yoda.gz/ATLAS_2023_I2729396/d02-x01-y01
 ErrorBars=1
 LineColor=green
-LineStyle=dashed
+LineStyle=solid
 Path=//ustcfs2/yuyi/private/ssWW/Rivet_New_Plus/136TeV.200000.yoda.gz/ATLAS_2023_I2729396/d02-x01-y01
 ScaledBy=1.02463800425198273e-01
 Title=LL (MC23)
@@ -166,7 +166,7 @@ Title=LL (MC23)
 # BEGIN HISTO1D //ustcfs2/yuyi/private/ssWW/Rivet_New_Plus/136TeV.200001.yoda.gz/ATLAS_2023_I2729396/d02-x01-y01
 ErrorBars=1
 LineColor=orange
-LineStyle=dashed
+LineStyle=solid
 Path=//ustcfs2/yuyi/private/ssWW/Rivet_New_Plus/136TeV.200001.yoda.gz/ATLAS_2023_I2729396/d02-x01-y01
 ScaledBy=9.99990602053313221e-02
 Title=TL (MC23)
@@ -183,7 +183,7 @@ Title=TL (MC23)
 # BEGIN HISTO1D //ustcfs2/yuyi/private/ssWW/Rivet_New_Plus/136TeV.200002.yoda.gz/ATLAS_2023_I2729396/d02-x01-y01
 ErrorBars=1
 LineColor=violet
-LineStyle=dashed
+LineStyle=solid
 Path=//ustcfs2/yuyi/private/ssWW/Rivet_New_Plus/136TeV.200002.yoda.gz/ATLAS_2023_I2729396/d02-x01-y01
 ScaledBy=9.99933316629505325e-02
 Title=TT (MC23)
