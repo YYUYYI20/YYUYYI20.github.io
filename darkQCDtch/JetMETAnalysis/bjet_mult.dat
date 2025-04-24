@@ -1,0 +1,331 @@
+# BEGIN PLOT
+Legend=1
+LogY=1
+LegendPlacement=manual
+LegendAlign=r
+LegendXPos=1.225
+RightMargin=2.5
+Title=$b$-jet multiplicity ($p_\mathrm{T} > 25$ GeV)
+XLabel=$N_{b\mathrm{-jets}}$
+YLabel=$\mathrm{d}\sigma/\mathrm{d}N_{b\mathrm{-jets}}$ [pb]
+DrawOnly=//eos/home-y/yiyu/monobc/A600.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/A1000.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/A1500.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/A2000.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/A2600.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/C600.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/C1000.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/C1500.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/C2000.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/C2600.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/D600.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/D1000.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/D1500.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/D2000.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/D2600.yoda.gz/JetMETAnalysis/bjet_mult
+LegendOnly=//eos/home-y/yiyu/monobc/A600.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/A1000.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/A1500.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/A2000.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/A2600.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/C600.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/C1000.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/C1500.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/C2000.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/C2600.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/D600.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/D1000.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/D1500.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/D2000.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/D2600.yoda.gz/JetMETAnalysis/bjet_mult
+RatioPlot=1
+RatioPlotReference=//eos/home-y/yiyu/monobc/A600.yoda.gz/JetMETAnalysis/bjet_mult
+RatioPlotYLabel=Ratio
+# END PLOT
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/A600.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=red
+LineStyle=solid
+Path=//eos/home-y/yiyu/monobc/A600.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=5.21401125168643785e-06
+Title=A600
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	1.943373e+02	1.307520e+00	1.307520e+00
+5.000000e-01	1.500000e+00	1.861433e+02	1.281268e+00	1.281268e+00
+1.500000e+00	2.500000e+00	4.642082e+01	6.395012e-01	6.395012e-01
+2.500000e+00	3.500000e+00	7.291229e-01	7.955382e-02	7.955382e-02
+3.500000e+00	4.500000e+00	6.944027e-02	2.455084e-02	2.455084e-02
+4.500000e+00	5.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+5.500000e+00	6.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+6.500000e+00	7.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+7.500000e+00	8.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+8.500000e+00	9.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/A1000.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=blue
+LineStyle=solid
+Path=//eos/home-y/yiyu/monobc/A1000.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=4.00138196213606137e-06
+Title=A1000
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	1.762242e+01	1.243783e-01	1.243783e-01
+5.000000e-01	1.500000e+00	1.743317e+01	1.236357e-01	1.236357e-01
+1.500000e+00	2.500000e+00	4.414358e+00	6.227013e-02	6.227013e-02
+2.500000e+00	3.500000e+00	1.142147e-01	1.024448e-02	1.024448e-02
+3.500000e+00	4.500000e+00	1.584000e-02	3.633946e-03	3.633946e-03
+4.500000e+00	5.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+5.500000e+00	6.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+6.500000e+00	7.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+7.500000e+00	8.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+8.500000e+00	9.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/A1500.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=green
+LineStyle=solid
+Path=//eos/home-y/yiyu/monobc/A1500.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=3.22616518003077697e-06
+Title=A1500
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	1.240223e+00	1.005170e-02	1.005170e-02
+5.000000e-01	1.500000e+00	1.170243e+00	9.867766e-03	9.867766e-03
+1.500000e+00	2.500000e+00	2.995421e-01	4.983060e-03	4.983060e-03
+2.500000e+00	3.500000e+00	1.158524e-02	9.351391e-04	9.351391e-04
+3.500000e+00	4.500000e+00	1.406301e-03	3.348335e-04	3.348335e-04
+4.500000e+00	5.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+5.500000e+00	6.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+6.500000e+00	7.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+7.500000e+00	8.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+8.500000e+00	9.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/A2000.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=orange
+LineStyle=solid
+Path=//eos/home-y/yiyu/monobc/A2000.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=2.74469287009081753e-06
+Title=A2000
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	9.588074e-02	1.076036e-03	1.076036e-03
+5.000000e-01	1.500000e+00	7.234644e-02	1.010450e-03	1.010450e-03
+1.500000e+00	2.500000e+00	1.769449e-02	5.096215e-04	5.096215e-04
+2.500000e+00	3.500000e+00	9.452932e-04	1.077971e-04	1.077971e-04
+3.500000e+00	4.500000e+00	1.330413e-04	3.638435e-05	3.638435e-05
+4.500000e+00	5.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+5.500000e+00	6.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+6.500000e+00	7.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+7.500000e+00	8.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+8.500000e+00	9.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/A2600.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=lilac
+LineStyle=solid
+Path=//eos/home-y/yiyu/monobc/A2600.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=2.62727164953756670e-06
+Title=A2600
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	1.154748e-02	1.379829e-04	1.379829e-04
+5.000000e-01	1.500000e+00	1.515336e-03	1.075635e-04	1.075635e-04
+1.500000e+00	2.500000e+00	-6.054800e-05	5.186483e-05	5.186483e-05
+2.500000e+00	3.500000e+00	-1.800076e-05	1.246270e-05	1.246270e-05
+3.500000e+00	4.500000e+00	4.909297e-06	4.172100e-06	4.172100e-06
+4.500000e+00	5.500000e+00	0.000000e+00	-nan	-nan
+5.500000e+00	6.500000e+00	8.182162e-07	8.182162e-07	8.182162e-07
+6.500000e+00	7.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+7.500000e+00	8.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+8.500000e+00	9.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/C600.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=red
+LineStyle=dashed
+Path=//eos/home-y/yiyu/monobc/C600.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=5.90211502197280713e-06
+Title=C600
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	2.168961e+02	1.468538e+00	1.468538e+00
+5.000000e-01	1.500000e+00	2.104103e+02	1.444458e+00	1.444458e+00
+1.500000e+00	2.500000e+00	5.346099e+01	7.277893e-01	7.277893e-01
+2.500000e+00	3.500000e+00	1.164109e+00	1.067137e-01	1.067137e-01
+3.500000e+00	4.500000e+00	6.847703e-02	2.588188e-02	2.588188e-02
+4.500000e+00	5.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+5.500000e+00	6.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+6.500000e+00	7.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+7.500000e+00	8.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+8.500000e+00	9.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/C1000.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=blue
+LineStyle=dashed
+Path=//eos/home-y/yiyu/monobc/C1000.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=4.98836569259182364e-06
+Title=C1000
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	2.161902e+01	1.541118e-01	1.541118e-01
+5.000000e-01	1.500000e+00	2.180587e+01	1.543773e-01	1.543773e-01
+1.500000e+00	2.500000e+00	5.587976e+00	7.814600e-02	7.814600e-02
+2.500000e+00	3.500000e+00	1.536356e-01	1.313077e-02	1.313077e-02
+3.500000e+00	4.500000e+00	1.349502e-02	4.280106e-03	4.280106e-03
+4.500000e+00	5.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+5.500000e+00	6.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+6.500000e+00	7.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+7.500000e+00	8.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+8.500000e+00	9.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/C1500.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=green
+LineStyle=dashed
+Path=//eos/home-y/yiyu/monobc/C1500.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=4.29919801299068407e-06
+Title=C1500
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	1.645709e+00	1.336045e-02	1.336045e-02
+5.000000e-01	1.500000e+00	1.574358e+00	1.314436e-02	1.314436e-02
+1.500000e+00	2.500000e+00	4.048273e-01	6.677247e-03	6.677247e-03
+2.500000e+00	3.500000e+00	1.632152e-02	1.289386e-03	1.289386e-03
+3.500000e+00	4.500000e+00	1.694585e-03	4.459433e-04	4.459433e-04
+4.500000e+00	5.500000e+00	8.918866e-05	8.918866e-05	8.918866e-05
+5.500000e+00	6.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+6.500000e+00	7.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+7.500000e+00	8.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+8.500000e+00	9.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/C2000.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=orange
+LineStyle=dashed
+Path=//eos/home-y/yiyu/monobc/C2000.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=3.73896889920239138e-06
+Title=C2000
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	1.176482e-01	1.439684e-03	1.439684e-03
+5.000000e-01	1.500000e+00	1.025747e-01	1.400246e-03	1.400246e-03
+1.500000e+00	2.500000e+00	2.356019e-02	7.083563e-04	7.083563e-04
+2.500000e+00	3.500000e+00	1.011905e-03	1.376782e-04	1.376782e-04
+3.500000e+00	4.500000e+00	1.050090e-04	4.960387e-05	4.960387e-05
+4.500000e+00	5.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+5.500000e+00	6.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+6.500000e+00	7.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+7.500000e+00	8.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+8.500000e+00	9.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/C2600.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=lilac
+LineStyle=dashed
+Path=//eos/home-y/yiyu/monobc/C2600.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=3.48760473830657204e-06
+Title=C2600
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	1.178566e-02	1.785062e-04	1.785062e-04
+5.000000e-01	1.500000e+00	1.548599e-03	1.462418e-04	1.462418e-04
+1.500000e+00	2.500000e+00	-4.216537e-04	7.413741e-05	7.413741e-05
+2.500000e+00	3.500000e+00	-2.825515e-05	1.633723e-05	1.633723e-05
+3.500000e+00	4.500000e+00	-4.346946e-06	5.750469e-06	5.750469e-06
+4.500000e+00	5.500000e+00	0.000000e+00	-nan	-nan
+5.500000e+00	6.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+6.500000e+00	7.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+7.500000e+00	8.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+8.500000e+00	9.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/D600.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=red
+LineStyle=dashdotted
+Path=//eos/home-y/yiyu/monobc/D600.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=6.26160614830790851e-06
+Title=D600
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	2.268564e+02	1.532305e+00	1.532305e+00
+5.000000e-01	1.500000e+00	2.202549e+02	1.511475e+00	1.511475e+00
+1.500000e+00	2.500000e+00	5.400516e+01	7.481753e-01	7.481753e-01
+2.500000e+00	3.500000e+00	1.071328e+00	1.074966e-01	1.074966e-01
+3.500000e+00	4.500000e+00	1.122344e-01	3.678791e-02	3.678791e-02
+4.500000e+00	5.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+5.500000e+00	6.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+6.500000e+00	7.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+7.500000e+00	8.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+8.500000e+00	9.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/D1000.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=blue
+LineStyle=dashdotted
+Path=//eos/home-y/yiyu/monobc/D1000.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=5.55495214013862181e-06
+Title=D1000
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	2.427518e+01	1.718528e-01	1.718528e-01
+5.000000e-01	1.500000e+00	2.367313e+01	1.695793e-01	1.695793e-01
+1.500000e+00	2.500000e+00	6.109009e+00	8.649295e-02	8.649295e-02
+2.500000e+00	3.500000e+00	1.643010e-01	1.457864e-02	1.457864e-02
+3.500000e+00	4.500000e+00	1.723437e-02	4.449894e-03	4.449894e-03
+4.500000e+00	5.500000e+00	1.148958e-03	1.148958e-03	1.148958e-03
+5.500000e+00	6.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+6.500000e+00	7.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+7.500000e+00	8.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+8.500000e+00	9.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/D1500.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=green
+LineStyle=dashdotted
+Path=//eos/home-y/yiyu/monobc/D1500.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=5.09488537008347615e-06
+Title=D1500
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	1.885663e+00	1.572859e-02	1.572859e-02
+5.000000e-01	1.500000e+00	1.836238e+00	1.557426e-02	1.557426e-02
+1.500000e+00	2.500000e+00	4.702303e-01	7.908832e-03	7.908832e-03
+2.500000e+00	3.500000e+00	2.044479e-02	1.591287e-03	1.591287e-03
+3.500000e+00	4.500000e+00	2.423867e-03	5.269277e-04	5.269277e-04
+4.500000e+00	5.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+5.500000e+00	6.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+6.500000e+00	7.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+7.500000e+00	8.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+8.500000e+00	9.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/D2000.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=orange
+LineStyle=dashdotted
+Path=//eos/home-y/yiyu/monobc/D2000.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=4.61553418144346189e-06
+Title=D2000
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	1.470992e-01	1.783687e-03	1.783687e-03
+5.000000e-01	1.500000e+00	1.200500e-01	1.720988e-03	1.720988e-03
+1.500000e+00	2.500000e+00	2.860294e-02	8.624039e-04	8.624039e-04
+2.500000e+00	3.500000e+00	1.436033e-03	1.868550e-04	1.868550e-04
+3.500000e+00	4.500000e+00	2.001029e-04	7.350837e-05	7.350837e-05
+4.500000e+00	5.500000e+00	1.177076e-05	1.177076e-05	1.177076e-05
+5.500000e+00	6.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+6.500000e+00	7.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+7.500000e+00	8.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+8.500000e+00	9.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/D2600.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=lilac
+LineStyle=dashdotted
+Path=//eos/home-y/yiyu/monobc/D2600.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=4.26955399294807099e-06
+Title=D2600
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	1.149413e-02	2.116709e-04	2.116709e-04
+5.000000e-01	1.500000e+00	1.611290e-03	1.828034e-04	1.828034e-04
+1.500000e+00	2.500000e+00	-5.265396e-04	9.124677e-05	9.124677e-05
+2.500000e+00	3.500000e+00	1.715543e-05	2.140110e-05	2.140110e-05
+3.500000e+00	4.500000e+00	2.639296e-06	7.917889e-06	7.917889e-06
+4.500000e+00	5.500000e+00	1.319648e-06	2.285697e-06	2.285697e-06
+5.500000e+00	6.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+6.500000e+00	7.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+7.500000e+00	8.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+8.500000e+00	9.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+# END HISTO1D
+
