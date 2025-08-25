@@ -1,0 +1,121 @@
+# BEGIN PLOT
+Legend=1
+LogY=1
+LegendPlacement=manual
+LegendAlign=r
+LegendXPos=1.36
+RightMargin=3.7
+Title=$b$-jet multiplicity ($p_\mathrm{T} > 25$ GeV)
+XLabel=$N_{b\mathrm{-jets}}$
+YLabel=$\mathrm{d}\sigma/\mathrm{d}N_{b\mathrm{-jets}}$ [pb]
+DrawOnly=//eos/home-y/yiyu/monobc/Rivet_New/X1500_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/Rivet_New/X2000_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/Rivet_New/X3000_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/Rivet_New/X600_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/Rivet_New/X800_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult
+LegendOnly=//eos/home-y/yiyu/monobc/Rivet_New/X1500_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/Rivet_New/X2000_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/Rivet_New/X3000_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/Rivet_New/X600_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/Rivet_New/X800_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult
+RatioPlot=1
+RatioPlotReference=//eos/home-y/yiyu/monobc/Rivet_New/X1500_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult
+RatioPlotYLabel=Ratio
+# END PLOT
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/Rivet_New/X1500_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=red
+LineStyle=solid
+Path=//eos/home-y/yiyu/monobc/Rivet_New/X1500_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=5.76086640499999995e-08
+Title=X1500_pi20_L40
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	5.812714e-05	1.829925e-06	1.829925e-06
+5.000000e-01	1.500000e+00	4.555117e-04	5.122638e-06	5.122638e-06
+1.500000e+00	2.500000e+00	3.627618e-04	4.571457e-06	4.571457e-06
+2.500000e+00	3.500000e+00	1.729988e-04	3.156934e-06	3.156934e-06
+3.500000e+00	4.500000e+00	7.160757e-05	2.031063e-06	2.031063e-06
+4.500000e+00	5.500000e+00	2.361955e-05	1.166487e-06	1.166487e-06
+5.500000e+00	6.500000e+00	6.048910e-06	5.903131e-07	5.903131e-07
+6.500000e+00	7.500000e+00	1.324999e-06	2.762815e-07	2.762815e-07
+7.500000e+00	8.500000e+00	1.152173e-07	8.147095e-08	8.147095e-08
+8.500000e+00	9.500000e+00	5.760866e-08	5.760866e-08	5.760866e-08
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/Rivet_New/X2000_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=blue
+LineStyle=solid
+Path=//eos/home-y/yiyu/monobc/Rivet_New/X2000_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=1.15412029460000010e-08
+Title=X2000_pi20_L40
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	1.080257e-05	3.530929e-07	3.530929e-07
+5.000000e-01	1.500000e+00	8.460856e-05	9.881723e-07	9.881723e-07
+1.500000e+00	2.500000e+00	7.134772e-05	9.074351e-07	9.074351e-07
+2.500000e+00	3.500000e+00	3.700110e-05	6.534808e-07	6.534808e-07
+3.500000e+00	4.500000e+00	1.760033e-05	4.506983e-07	4.506983e-07
+4.500000e+00	5.500000e+00	6.901639e-06	2.822290e-07	2.822290e-07
+5.500000e+00	6.500000e+00	1.823510e-06	1.450707e-07	1.450707e-07
+6.500000e+00	7.500000e+00	6.001426e-07	8.322480e-08	8.322480e-08
+7.500000e+00	8.500000e+00	1.038708e-07	3.462360e-08	3.462360e-08
+8.500000e+00	9.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/Rivet_New/X3000_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=green
+LineStyle=solid
+Path=//eos/home-y/yiyu/monobc/Rivet_New/X3000_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=9.09416233649999910e-10
+Title=X3000_pi20_L40
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	1.111307e-06	3.179056e-08	3.179056e-08
+5.000000e-01	1.500000e+00	6.308620e-06	7.574406e-08	7.574406e-08
+1.500000e+00	2.500000e+00	5.297350e-06	6.940818e-08	6.940818e-08
+2.500000e+00	3.500000e+00	2.963788e-06	5.191643e-08	5.191643e-08
+3.500000e+00	4.500000e+00	1.483258e-06	3.672736e-08	3.672736e-08
+4.500000e+00	5.500000e+00	6.729680e-07	2.473880e-08	2.473880e-08
+5.500000e+00	6.500000e+00	2.346294e-07	1.460739e-08	1.460739e-08
+6.500000e+00	7.500000e+00	8.093804e-08	8.579415e-09	8.579415e-09
+7.500000e+00	8.500000e+00	2.546365e-08	4.812178e-09	4.812178e-09
+8.500000e+00	9.500000e+00	7.275330e-09	2.572218e-09	2.572218e-09
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/Rivet_New/X600_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=orange
+LineStyle=solid
+Path=//eos/home-y/yiyu/monobc/Rivet_New/X600_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=4.17384631200000003e-06
+Title=X600_pi20_L40
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	8.005437e-03	1.827935e-04	1.827935e-04
+5.000000e-01	1.500000e+00	4.296557e-02	4.234757e-04	4.234757e-04
+1.500000e+00	2.500000e+00	2.393283e-02	3.160569e-04	3.160569e-04
+2.500000e+00	3.500000e+00	6.511200e-03	1.648537e-04	1.648537e-04
+3.500000e+00	4.500000e+00	1.732146e-03	8.502771e-05	8.502771e-05
+4.500000e+00	5.500000e+00	2.629523e-04	3.312888e-05	3.312888e-05
+5.500000e+00	6.500000e+00	5.426000e-05	1.504902e-05	1.504902e-05
+6.500000e+00	7.500000e+00	1.252154e-05	7.229314e-06	7.229314e-06
+7.500000e+00	8.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+8.500000e+00	9.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/Rivet_New/X800_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=lilac
+LineStyle=solid
+Path=//eos/home-y/yiyu/monobc/Rivet_New/X800_pi20_L40.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=1.22225807280000005e-06
+Title=X800_pi20_L40
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	1.854165e-03	4.760535e-05	4.760535e-05
+5.000000e-01	1.500000e+00	1.143178e-02	1.182057e-04	1.182057e-04
+1.500000e+00	2.500000e+00	7.658669e-03	9.675159e-05	9.675159e-05
+2.500000e+00	3.500000e+00	2.455516e-03	5.478389e-05	5.478389e-05
+3.500000e+00	4.500000e+00	8.274687e-04	3.180220e-05	3.180220e-05
+4.500000e+00	5.500000e+00	1.796719e-04	1.481909e-05	1.481909e-05
+5.500000e+00	6.500000e+00	3.055645e-05	6.111290e-06	6.111290e-06
+6.500000e+00	7.500000e+00	7.333548e-06	2.993909e-06	2.993909e-06
+7.500000e+00	8.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+8.500000e+00	9.500000e+00	0.000000e+00	0.000000e+00	0.000000e+00
+# END HISTO1D
+
