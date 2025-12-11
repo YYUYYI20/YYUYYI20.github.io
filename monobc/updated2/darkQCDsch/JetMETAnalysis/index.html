@@ -1,0 +1,167 @@
+<html>
+<head>
+<title>Plots from Rivet analyses &ndash; JetMETAnalysis</title>
+<style>
+      html { font-family: arial black, sans-serif; color: #333333; }
+      img { border: 0; }
+      a { text-decoration: none; font-weight: bold; }
+      footer { clear:both; margin-top:2em; margin-bottom:2em; padding-top:2em; color: #999999; }
+
+      .anasumm, .indexanasumm { margin-bottom: 2.5em; line-height: 1.4; font-size: 120%; font-family: georgia, palatino, serif; }
+      .back, .back a { font-weight: bold; color: gray; font-variant: small-caps; text-transform: uppercase; margin-bottom: 2em; }
+
+      .filterform { position: fixed; top: 1em; right: 1em; background: white; opacity: 0.2; }
+      .filterform { padding: 1em; padding-bottom: 0.1em; border: 2px solid gray; border-radius: 0.7em; }
+      .filterform:hover, .filterform:focus-within { opacity: 1.0; -webkit-transition: opacity 1s; transition: opacity 1s; drop-shadow(gray 0.5em 0.5em 10px); }
+      .filterpatt { padding: 0.3em; font-size: 100%; border: 1px solid #85C1E9; border-radius: 0.1em; }
+      .filterbutton { padding: 0.3em; font-size: 100%; border: 2px solid #85C1E9; background:#D6EAF8; border-radius: 0.3em; }
+    </style>
+            <script type="text/javascript">
+           window.MathJax = { tex: { inlineMath: [['$','$']] }, 
+                              options: { menuOptions: { settings: { inTabOrder: false } } } };
+        </script>
+        <script type="text/javascript" id="MathJax-script" async
+          src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-chtml-full.min.js">
+        </script>
+        
+
+        <script type="text/javascript">
+            function filterPlots(ana, patt) {
+                var regex = new RegExp(patt);
+                var sec = document.getElementById('ana_'+ana);
+                var plots = sec.getElementsByClassName('plot');
+                var i; for (i = 0; i < plots.length; ++i) {
+                    // var viz = (regex.test(plots[i].id)) ? 'visible' : 'hidden';
+                    // plots[i].style.visibility = viz;
+                    var dis = (regex.test(plots[i].id)) ? 'block' : 'none';
+                    plots[i].style.display = dis;
+                }
+                return false;
+           }
+        </script>
+        </head>
+<body>
+<section id="ana_JetMETAnalysis">
+<p class="back"><a href="../index.html" title="Return to index page">&larrhk; Index</a></p>
+<h2>JetMETAnalysis</h2>
+<div class="filterform"><form onsubmit="var patt = document.getElementById('patt_JetMETAnalysis').value; filterPlots('JetMETAnalysis', patt); return false;">
+<span><b>Filter plots:</b>&emsp;</span><input class="filterpatt" id="patt_JetMETAnalysis" type="search" accesskey="s" title="Filter: Alt+s">
+<input class="filterbutton" type="submit" value="Filter">
+</form></div>
+
+  <div class="plot" id="plot_bb_dR" style="float:left; font-size:smaller; font-weight:bold;">
+    <a href="#JetMETAnalysis-bb_dR">&#9875;</a><a href="bb_dR.dat">&#8984</a> bb_dR:<br/>
+    <a name="JetMETAnalysis-bb_dR"><a href="bb_dR.pdf">
+      <img src="bb_dR.png">
+    </a></a>
+  </div>
+  <div class="plot" id="plot_bb_deta" style="float:left; font-size:smaller; font-weight:bold;">
+    <a href="#JetMETAnalysis-bb_deta">&#9875;</a><a href="bb_deta.dat">&#8984</a> bb_deta:<br/>
+    <a name="JetMETAnalysis-bb_deta"><a href="bb_deta.pdf">
+      <img src="bb_deta.png">
+    </a></a>
+  </div>
+  <div class="plot" id="plot_bb_dphi" style="float:left; font-size:smaller; font-weight:bold;">
+    <a href="#JetMETAnalysis-bb_dphi">&#9875;</a><a href="bb_dphi.dat">&#8984</a> bb_dphi:<br/>
+    <a name="JetMETAnalysis-bb_dphi"><a href="bb_dphi.pdf">
+      <img src="bb_dphi.png">
+    </a></a>
+  </div>
+  <div class="plot" id="plot_bb_m" style="float:left; font-size:smaller; font-weight:bold;">
+    <a href="#JetMETAnalysis-bb_m">&#9875;</a><a href="bb_m.dat">&#8984</a> bb_m:<br/>
+    <a name="JetMETAnalysis-bb_m"><a href="bb_m.pdf">
+      <img src="bb_m.png">
+    </a></a>
+  </div>
+  <div class="plot" id="plot_bb_pt" style="float:left; font-size:smaller; font-weight:bold;">
+    <a href="#JetMETAnalysis-bb_pt">&#9875;</a><a href="bb_pt.dat">&#8984</a> bb_pt:<br/>
+    <a name="JetMETAnalysis-bb_pt"><a href="bb_pt.pdf">
+      <img src="bb_pt.png">
+    </a></a>
+  </div>
+  <div class="plot" id="plot_bjet_eta" style="float:left; font-size:smaller; font-weight:bold;">
+    <a href="#JetMETAnalysis-bjet_eta">&#9875;</a><a href="bjet_eta.dat">&#8984</a> bjet_eta:<br/>
+    <a name="JetMETAnalysis-bjet_eta"><a href="bjet_eta.pdf">
+      <img src="bjet_eta.png">
+    </a></a>
+  </div>
+  <div class="plot" id="plot_bjet_mult" style="float:left; font-size:smaller; font-weight:bold;">
+    <a href="#JetMETAnalysis-bjet_mult">&#9875;</a><a href="bjet_mult.dat">&#8984</a> bjet_mult:<br/>
+    <a name="JetMETAnalysis-bjet_mult"><a href="bjet_mult.pdf">
+      <img src="bjet_mult.png">
+    </a></a>
+  </div>
+  <div class="plot" id="plot_bjet_pt" style="float:left; font-size:smaller; font-weight:bold;">
+    <a href="#JetMETAnalysis-bjet_pt">&#9875;</a><a href="bjet_pt.dat">&#8984</a> bjet_pt:<br/>
+    <a name="JetMETAnalysis-bjet_pt"><a href="bjet_pt.pdf">
+      <img src="bjet_pt.png">
+    </a></a>
+  </div>
+  <div class="plot" id="plot_jet12_dR" style="float:left; font-size:smaller; font-weight:bold;">
+    <a href="#JetMETAnalysis-jet12_dR">&#9875;</a><a href="jet12_dR.dat">&#8984</a> jet12_dR:<br/>
+    <a name="JetMETAnalysis-jet12_dR"><a href="jet12_dR.pdf">
+      <img src="jet12_dR.png">
+    </a></a>
+  </div>
+  <div class="plot" id="plot_jet12_deta" style="float:left; font-size:smaller; font-weight:bold;">
+    <a href="#JetMETAnalysis-jet12_deta">&#9875;</a><a href="jet12_deta.dat">&#8984</a> jet12_deta:<br/>
+    <a name="JetMETAnalysis-jet12_deta"><a href="jet12_deta.pdf">
+      <img src="jet12_deta.png">
+    </a></a>
+  </div>
+  <div class="plot" id="plot_jet12_dphi" style="float:left; font-size:smaller; font-weight:bold;">
+    <a href="#JetMETAnalysis-jet12_dphi">&#9875;</a><a href="jet12_dphi.dat">&#8984</a> jet12_dphi:<br/>
+    <a name="JetMETAnalysis-jet12_dphi"><a href="jet12_dphi.pdf">
+      <img src="jet12_dphi.png">
+    </a></a>
+  </div>
+  <div class="plot" id="plot_jet12_m" style="float:left; font-size:smaller; font-weight:bold;">
+    <a href="#JetMETAnalysis-jet12_m">&#9875;</a><a href="jet12_m.dat">&#8984</a> jet12_m:<br/>
+    <a name="JetMETAnalysis-jet12_m"><a href="jet12_m.pdf">
+      <img src="jet12_m.png">
+    </a></a>
+  </div>
+  <div class="plot" id="plot_jet_eta" style="float:left; font-size:smaller; font-weight:bold;">
+    <a href="#JetMETAnalysis-jet_eta">&#9875;</a><a href="jet_eta.dat">&#8984</a> jet_eta:<br/>
+    <a name="JetMETAnalysis-jet_eta"><a href="jet_eta.pdf">
+      <img src="jet_eta.png">
+    </a></a>
+  </div>
+  <div class="plot" id="plot_jet_mult" style="float:left; font-size:smaller; font-weight:bold;">
+    <a href="#JetMETAnalysis-jet_mult">&#9875;</a><a href="jet_mult.dat">&#8984</a> jet_mult:<br/>
+    <a name="JetMETAnalysis-jet_mult"><a href="jet_mult.pdf">
+      <img src="jet_mult.png">
+    </a></a>
+  </div>
+  <div class="plot" id="plot_jet_phi" style="float:left; font-size:smaller; font-weight:bold;">
+    <a href="#JetMETAnalysis-jet_phi">&#9875;</a><a href="jet_phi.dat">&#8984</a> jet_phi:<br/>
+    <a name="JetMETAnalysis-jet_phi"><a href="jet_phi.pdf">
+      <img src="jet_phi.png">
+    </a></a>
+  </div>
+  <div class="plot" id="plot_jet_pt" style="float:left; font-size:smaller; font-weight:bold;">
+    <a href="#JetMETAnalysis-jet_pt">&#9875;</a><a href="jet_pt.dat">&#8984</a> jet_pt:<br/>
+    <a name="JetMETAnalysis-jet_pt"><a href="jet_pt.pdf">
+      <img src="jet_pt.png">
+    </a></a>
+  </div>
+  <div class="plot" id="plot_met" style="float:left; font-size:smaller; font-weight:bold;">
+    <a href="#JetMETAnalysis-met">&#9875;</a><a href="met.dat">&#8984</a> met:<br/>
+    <a name="JetMETAnalysis-met"><a href="met.pdf">
+      <img src="met.png">
+    </a></a>
+  </div>
+  <div class="plot" id="plot_met_phi" style="float:left; font-size:smaller; font-weight:bold;">
+    <a href="#JetMETAnalysis-met_phi">&#9875;</a><a href="met_phi.dat">&#8984</a> met_phi:<br/>
+    <a name="JetMETAnalysis-met_phi"><a href="met_phi.pdf">
+      <img src="met_phi.png">
+    </a></a>
+  </div>
+</section>
+
+<footer>
+<p id="timestamp">Generated at Thursday, 11. December 2025 11:56PM</p>
+</footer>
+
+</body>
+</html>

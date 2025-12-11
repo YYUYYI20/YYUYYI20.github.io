@@ -1,0 +1,79 @@
+# BEGIN PLOT
+Legend=1
+LogY=1
+LegendPlacement=manual
+LegendAlign=r
+LegendXPos=1.36
+RightMargin=3.7
+Title=$b$-jet multiplicity ($p_\mathrm{T} > 25$ GeV)
+XLabel=$N_{b\mathrm{-jets}}$
+YLabel=$\mathrm{d}\sigma/\mathrm{d}N_{b\mathrm{-jets}}$ [pb]
+DrawOnly=//eos/home-y/yiyu/monobc/Rivet_New2/X600_pi20_L40_darkQCDtch.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/Rivet_New2/X1500_pi20_L40_darkQCDtch.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/Rivet_New2/X2000_pi20_L40_darkQCDtch.yoda.gz/JetMETAnalysis/bjet_mult
+LegendOnly=//eos/home-y/yiyu/monobc/Rivet_New2/X600_pi20_L40_darkQCDtch.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/Rivet_New2/X1500_pi20_L40_darkQCDtch.yoda.gz/JetMETAnalysis/bjet_mult //eos/home-y/yiyu/monobc/Rivet_New2/X2000_pi20_L40_darkQCDtch.yoda.gz/JetMETAnalysis/bjet_mult
+RatioPlot=1
+RatioPlotReference=//eos/home-y/yiyu/monobc/Rivet_New2/X600_pi20_L40_darkQCDtch.yoda.gz/JetMETAnalysis/bjet_mult
+RatioPlotYLabel=Ratio
+# END PLOT
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/Rivet_New2/X600_pi20_L40_darkQCDtch.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=red
+LineStyle=solid
+Path=//eos/home-y/yiyu/monobc/Rivet_New2/X600_pi20_L40_darkQCDtch.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=6.74607198467078117e-06
+Title=X600_pi20_L40
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	7.968908e-05	4.406816e-06	4.406816e-06
+5.000000e-01	1.500000e+00	8.190672e-04	1.412815e-05	1.412815e-05
+1.500000e+00	2.500000e+00	2.370202e-03	2.404098e-05	2.404098e-05
+2.500000e+00	3.500000e+00	9.204454e-04	1.498095e-05	1.498095e-05
+3.500000e+00	4.500000e+00	5.117647e-04	1.116762e-05	1.116762e-05
+4.500000e+00	5.500000e+00	1.281849e-04	5.589126e-06	5.589126e-06
+5.500000e+00	6.500000e+00	3.411765e-05	2.883468e-06	2.883468e-06
+6.500000e+00	7.500000e+00	6.823529e-06	1.289526e-06	1.289526e-06
+7.500000e+00	8.500000e+00	1.218487e-06	5.449241e-07	5.449241e-07
+8.500000e+00	9.500000e+00	4.873950e-07	3.446402e-07	3.446402e-07
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/Rivet_New2/X1500_pi20_L40_darkQCDtch.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=blue
+LineStyle=solid
+Path=//eos/home-y/yiyu/monobc/Rivet_New2/X1500_pi20_L40_darkQCDtch.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=9.88372065712895970e-06
+Title=X1500_pi20_L40
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	2.574758e-06	1.093910e-07	1.093910e-07
+5.000000e-01	1.500000e+00	2.137421e-05	3.153168e-07	3.153168e-07
+1.500000e+00	2.500000e+00	4.202339e-05	4.419355e-07	4.419355e-07
+2.500000e+00	3.500000e+00	1.596907e-05	2.727459e-07	2.727459e-07
+3.500000e+00	4.500000e+00	7.784692e-06	1.907772e-07	1.907772e-07
+4.500000e+00	5.500000e+00	2.314493e-06	1.037149e-07	1.037149e-07
+5.500000e+00	6.500000e+00	6.506608e-07	5.538227e-08	5.538227e-08
+6.500000e+00	7.500000e+00	1.022467e-07	2.179907e-08	2.179907e-08
+7.500000e+00	8.500000e+00	3.718062e-08	1.314533e-08	1.314533e-08
+8.500000e+00	9.500000e+00	9.295154e-09	6.572667e-09	6.572667e-09
+# END HISTO1D
+
+
+# BEGIN HISTO1D //eos/home-y/yiyu/monobc/Rivet_New2/X2000_pi20_L40_darkQCDtch.yoda.gz/JetMETAnalysis/bjet_mult
+ErrorBars=1
+LineColor=violet
+LineStyle=solid
+Path=//eos/home-y/yiyu/monobc/Rivet_New2/X2000_pi20_L40_darkQCDtch.yoda.gz/JetMETAnalysis/bjet_mult
+ScaledBy=1.07360409572631651e-05
+Title=X2000_pi20_L40
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	9.190719e-07	3.809587e-08	3.809587e-08
+5.000000e-01	1.500000e+00	6.985574e-06	1.047651e-07	1.047651e-07
+1.500000e+00	2.500000e+00	1.400879e-05	1.482598e-07	1.482598e-07
+2.500000e+00	3.500000e+00	5.462675e-06	9.261425e-08	9.261425e-08
+3.500000e+00	4.500000e+00	2.893665e-06	6.740395e-08	6.740395e-08
+4.500000e+00	5.500000e+00	7.888962e-07	3.517515e-08	3.517515e-08
+5.500000e+00	6.500000e+00	2.227103e-07	1.868943e-08	1.868943e-08
+6.500000e+00	7.500000e+00	3.764117e-08	7.997211e-09	7.997211e-09
+7.500000e+00	8.500000e+00	9.410292e-09	3.841735e-09	3.841735e-09
+8.500000e+00	9.500000e+00	1.568382e-09	1.568382e-09	1.568382e-09
+# END HISTO1D
+
